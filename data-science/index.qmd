@@ -1,0 +1,21 @@
+---
+title: "Data science resources"
+subtitle: "A collection of useful, freely-available data science resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+description: "A collection of useful, freely-available data science resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+image: "featured.png"
+---
+
+```{r}
+#| file: ../utils/utils.R
+#| echo: false
+#| eval: true
+#| message: false
+```
+
+```{r}
+#| message: false
+resource_list("Data-science")
+```
+
+{{< include ../utils/footer-text.qmd >}}
+

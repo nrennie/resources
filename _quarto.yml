@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+  - "*.qmd"
+  - "!utils/*.qmd"
+
+execute:
+  eval: true
+  echo: false
+  message: false
+  warning: false
+
+website:
+  title: "Resources"
+  twitter-card: true
+  open-graph: true
+  image: "assets/img/featured.png"
+  favicon: "assets/img/favicon.ico"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+  page-footer: "© Nicola Rennie. 2026.<br>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/)."
+
+format:
+  html:
+    theme:
+      light: [flatly,assets/css/custom.scss,assets/css/custom-light.scss]
+      dark: [flatly,assets/css/custom.scss,assets/css/custom-dark.scss]
+    toc: true
+    toc-location: left
+    code-overflow: wrap
+    page-layout: full
+    fig-cap-location: top

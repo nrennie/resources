@@ -1,0 +1,24 @@
+---
+listing:
+  contents:
+    - "*.qmd"
+    - "!utils/*.qmd"
+  id: resources-listing
+  type: grid
+  grid-columns: 4
+  sort: "date desc"
+  categories: false
+format:
+  html:
+    theme:
+      light: [flatly,assets/css/custom.scss,assets/css/custom-light.scss]
+      dark: [flatly,assets/css/custom.scss,assets/css/custom-dark.scss]
+    page-layout: full
+    toc: false
+---
+
+:::{#resources-listing}
+:::
+
+
+
