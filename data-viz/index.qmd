@@ -1,6 +1,5 @@
 ---
 title: "Data visualisation resources"
-subtitle: "A collection of useful, freely-available data visualisation resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
 description: "A collection of useful, freely-available data visualisation resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
 image: "featured.png"
 ---

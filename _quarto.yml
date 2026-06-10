@@ -12,7 +12,7 @@ execute:
   warning: false
 
 website:
-  title: "Resources"
+  title: ""
   twitter-card: true
   open-graph: true
   image: "assets/img/featured.png"
