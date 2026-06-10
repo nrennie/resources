@@ -1,6 +1,6 @@
 # Resources
 
-Collections of useful, freely-available resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/). View the resource lists at [nrennie.rbind.io/resources](https://nrennie.rbind.io/resources/).
+Collections of useful, freely-available resources and links on data-related topics, curated by [Nicola Rennie](https://nrennie.rbind.io/). View the resource lists at [nrennie.rbind.io/resources](https://nrennie.rbind.io/resources/).
 
 Want to add a resource? File an issue or edit the `resources.csv` file on [GitHub](https://github.com/nrennie/resources) and submit a PR.
 
