@@ -1,6 +1,8 @@
 library(tidyverse)
 library(showtext)
 font_add_google("Oswald")
+showtext_auto()
+showtext_opts(dpi = 300)
 bg_col <- "#F2F4F8"
 highlight_col <- "#7F055F"
 
