@@ -29,6 +29,7 @@ Data-science;Python;,People & Organisations,Rami Krispin,https://medium.com/@ram
 Data-science;Teaching;,People & Organisations,Andrew Gelman,https://statmodeling.stat.columbia.edu/,
 Data-science;,People & Organisations,Frank Harrell,https://www.fharrell.com/#posts,
 Data-science;Data-viz;,People & Organisations,Kieran Healy,https://kieranhealy.org/blog/,
+Teaching;R;,People & Organisations,Andy Field,https://profandyfield.com/,
 Data-science;,People & Organisations,Dorothy Bishop,https://deevybee.blogspot.com/,
 Data-science;Teaching;,People & Organisations,Mine Dogucu,https://www.datapedagogy.com/,"Blog about teaching, statistics, and R."
 Data-science;,People & Organisations,Emil Hvitfeldt,https://emilhvitfeldt.com/blog,
@@ -77,6 +78,7 @@ Data-viz;,People & Organisations,Wendy Shijia,https://wendyshijia.notion.site/,
 Data-viz;,People & Organisations,Will Chase,https://www.williamrchase.com/,
 Data-viz;,People & Organisations,Giuseppe Sollazzo (Puntofisso),https://puntofisso.net/,
 Data-viz;R;,People & Organisations,Charlotte Hadley (Visible Data),https://www.visibledata.io/,
+Teaching;,People & Organisations,Teaching Statistics Trust,https://teachingstatisticstrust.org.uk/,
 Data-science;R;,Programming Books,Advanced R,https://adv-r.hadley.nz/,
 Data-viz;R;,Programming Books,The Art of Data Visualization with ggplot2,https://nrennie.rbind.io/art-of-viz,
 Data-science;,Programming Books,An Introduction to Statistical Learning,https://www.statlearning.com/,
@@ -165,6 +167,7 @@ Data-science;R;,Community & Events,A list of R conferences and meetings,https://
 Teaching;,Community & Events,RSS Teaching Statistics Section,https://rss.org.uk/membership/rss-groups-and-committees/sections/teaching-statistics/,Section of the Royal Statistical Society focusing on post-18 education and professional training.
 Data-science;,Community & Events,Posit Data Science Hangout,https://posit.co/data-science-hangout/,Weekly data science community meeting.
 Data-science;,Community & Events,Posit Data Science Lab,https://pos.it/dslab,Weekly data science meeting with unscripted screen-sharing and live coding happening.
+Teaching;,Community & Events,Burwalls,https://sites.google.com/view/burwalls/home,A network for Teachers of Statistics in the Health Sciences.
 Data-science;,Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,A topic-centric list of HQ open datasets.
 Data-science;,Data,Data.gov,https://data.gov/,U.S. Government's Open Data
 Data-science;,Data,Data Commons,https://datacommons.org/,Offers data exploration tools and cloud-based APIs to access and integrate cleaned datasets.
@@ -233,7 +236,11 @@ Data-viz;,Website,Government Analysis Function,https://analysisfunction.civilser
 Data-viz;,Website,Economist style guide,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,
 Data-viz;,Website,Data visualization style guidelines,https://www.datavizstyleguide.com/,
 Data-viz;,Website,Urban Institute data visualization style guide,https://urbaninstitute.github.io/graphics-styleguide/,
+Teaching;R;,Website,Discovering Statistics,https://discoveringstatistics.com/,
 Data-viz;Maps;,Website,Ordnance Survey: More than maps,https://docs.os.uk/more-than-maps,
+Teaching;,Website,The National Teaching Repository,https://ntrepository.com/,"An open access online searchable database where colleagues can upload and share teaching resources, pedagogical research, approaches and ideas."
+Data-science;,Website,Posit Open Source,https://opensource.posit.co/,
+Teaching;,Website,RSS Teaching Resources,https://rss.org.uk/resources/resources-for-educators/teaching-resources/,
 Data-science;,Resource list,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,"A curated list of Quarto talks, tools, examples, and articles."
 Data-viz;,Resource list,Data Folks: List of information designers,https://juanchiparra.github.io/data-folks/,
 Data-viz;,Resource list,Data visualization podcasts,https://baryon.notion.site/b7307b3af0dd45e1a891feb54d996866?v=f72fa21424a74e55ad058cf4e50ba9da,
@@ -289,6 +296,7 @@ Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,
 Data-viz;,Software & Packages,Highcharts,https://www.highcharts.com/,
 Data-viz;,Software & Packages,Inkscape,https://inkscape.org/,Low code
 Data-viz;,Software & Packages,Figma,https://www.figma.com/,Low code
+Maps;,Software & Packages,QGIS,https://qgis.org/,
 Data-viz;,Inspiration,Information is Beautiful,https://informationisbeautiful.net/,
 Data-viz;,Inspiration,Datawrapper Blog,https://www.datawrapper.de/blog/,
 Data-viz;,Inspiration,Wonderful Wednesdays,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays,
