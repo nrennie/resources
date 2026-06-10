@@ -1,0 +1,19 @@
+---
+title: "Teaching statistics resources"
+description: "A collection of useful, freely-available resources and links related to teaching statistics and data science, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+image: "featured.png"
+---
+
+```{r}
+#| file: ../utils/utils.R
+#| echo: false
+#| eval: true
+#| message: false
+```
+
+```{r}
+#| message: false
+resource_list("Teaching")
+```
+
+{{< include ../utils/footer-text.qmd >}}

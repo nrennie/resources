@@ -1,0 +1,19 @@
+---
+title: "Python resources"
+description: "A collection of useful, freely-available Python programming resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+image: "featured.png"
+---
+
+```{r}
+#| file: ../utils/utils.R
+#| echo: false
+#| eval: true
+#| message: false
+```
+
+```{r}
+#| message: false
+resource_list("Python")
+```
+
+{{< include ../utils/footer-text.qmd >}}
