@@ -18,6 +18,9 @@ website:
   image: "assets/img/featured.png"
   favicon: "assets/img/favicon.ico"
   navbar:
+    tools:
+      - icon: github
+        href: https://github.com/nrennie/resources
     right:
       - text: Home
         href: index.qmd
