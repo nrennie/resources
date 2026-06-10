@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching statistics resources",
+    "section": "",
+    "text": "This resource list was last updated on Jun 10, 2026. Want to add a resource? File an issue or edit the resources.csv file on GitHub and submit a PR.\nLinks to external websites are provided for convenience and informational purposes only. We do not endorse, guarantee, or take responsibility for the accuracy, reliability, or content of any linked site."
+  },
+  {
     "objectID": "maps/index.html",
     "href": "maps/index.html",
     "title": "Mapping resources",
@@ -32,6 +39,13 @@
     "href": "index.html",
     "title": "Resources",
     "section": "",
-    "text": "R resources\n\n\nA collection of useful, freely-available R programming resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData science resources\n\n\nA collection of useful, freely-available data science resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualisation resources\n\n\nA collection of useful, freely-available data visualisation resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping resources\n\n\nA collection of useful, freely-available geospatial, mapping, and cartographic resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "R resources\n\n\nA collection of useful, freely-available R programming resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData science resources\n\n\nA collection of useful, freely-available data science resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData visualisation resources\n\n\nA collection of useful, freely-available data visualisation resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapping resources\n\n\nA collection of useful, freely-available geospatial, mapping, and cartographic resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPython resources\n\n\nA collection of useful, freely-available Python programming resources and links, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching statistics resources\n\n\nA collection of useful, freely-available resources and links related to teaching statistics and data science, curated by Nicola Rennie.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "python/index.html",
+    "href": "python/index.html",
+    "title": "Python resources",
+    "section": "",
+    "text": "This resource list was last updated on Jun 10, 2026. Want to add a resource? File an issue or edit the resources.csv file on GitHub and submit a PR.\nLinks to external websites are provided for convenience and informational purposes only. We do not endorse, guarantee, or take responsibility for the accuracy, reliability, or content of any linked site."
   }
 ]
