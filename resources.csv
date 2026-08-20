@@ -80,7 +80,7 @@ Data-viz;,People & Organisations,Giuseppe Sollazzo (Puntofisso),https://puntofis
 Data-viz;R;,People & Organisations,Charlotte Hadley (Visible Data),https://www.visibledata.io/,
 Teaching;,People & Organisations,Teaching Statistics Trust,https://teachingstatisticstrust.org.uk/,
 Data-science;R;,Programming Books,Advanced R,https://adv-r.hadley.nz/,
-Data-science;R;,Programming Books,Hello Data Sciencemhttps://hellodata.science/,A friendly introduction to data science with applications
+Data-science;R;,Programming Books,Hello Data Science,https://hellodata.science/,A friendly introduction to data science with applications
 Data-viz;R;,Programming Books,The Art of Data Visualization with ggplot2,https://nrennie.rbind.io/art-of-viz,
 Data-science;,Programming Books,An Introduction to Statistical Learning,https://www.statlearning.com/,
 Data-science;,Programming Books,Bayes Rules,https://www.bayesrulesbook.com/,An Introduction to Applied Bayesian Modeling
@@ -149,6 +149,7 @@ Data-science;R;,Community & Events,rainbowR,https://rainbowr.org/,"A community t
 Data-science;R;,Community & Events,R-Ladies+,https://rladies.org/,A worldwide organization whose mission is to promote gender diversity in the R community.
 Data-science;R;,Community & Events,R/Pharma,https://rinpharma.com/,"A scientifically and industry oriented, collegial online community focused on the use of R in the development of pharmaceuticals."
 Data-science;R;,Community & Events,rOpenSci,https://ropensci.org/community/,
+Maps;,Community & Events,Geospatial Conferences,https://github.com/nowosad/geospatial-conferences,Index of yearly lists of geospatial conferences
 Data-science;Python;,Community & Events,pyOpenSci,https://www.pyopensci.org/our-community/index.html,
 Data-science;Python;,Community & Events,PyData,https://www.meetup.com/pro/pydata/,
 Data-science;Teaching;,Community & Events,RoSE (Researchers of Statistics Education) Network,https://www.rose-network.org/,
@@ -220,6 +221,7 @@ Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and t
 Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,
 Data-science;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
+Maps;,Website,Rare Maps,https://raremaps.com/category/maps,
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.addtwodigital.com/blog,
 Data-viz;,Website,"Mistakes, we've drawn a few",https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368,
