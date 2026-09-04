@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "All resources"
 subtitle: "Collections of useful, freely-available resources and links on data-related topics, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
 image: "assets/img/featured.png"
 listing:
