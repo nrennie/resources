@@ -7,6 +7,7 @@ Data-science;R;,People & Organisations,Luis D. Verde Arregoitia,https://luisdva.
 Data-science;,People & Organisations,Jack Kennedy,https://jcken95.github.io/projects.html,
 Data-science;R;,People & Organisations,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/,
 Data-science;R;,People & Organisations,Danielle Navarro,https://blog.djnavarro.net/,
+Data-science;R;,People & Organisations,Jen Richmond,https://jenrichmond.github.io/,
 Data-science;,People & Organisations,Dan Oehm,https://gradientdescending.com/,
 Data-science;,People & Organisations,Josiah Parry,https://josiahparry.com/posts/,
 Data-science;R;,People & Organisations,Shannon Pileggi,https://www.pipinghotdata.com/blog,
@@ -158,6 +159,7 @@ Data-science;Python;,Community & Events,PyLadies,https://pyladies.com/,
 Data-viz;,Community & Events,EuroVis,https://eurovis.org.uk/,
 Data-viz;,Community & Events,IEEE VIS,https://ieeevis.org/,
 Data-viz;,Community & Events,Dataviz Conferences in 2025,https://medium.com/@yvette110/data-visualization-events-in-2025-a-must-attend-guide-by-datavizlineup-08081964d81c,
+Maps;,Community & Events,Women+ in Geospatial,https://womeningeospatial.org/,Global professional network to promote diversity and gender-equality in the geospatial industry and academia.
 Teaching;,Community & Events,UK Conference On Teaching Statistics (UKCOTS),https://www.ukcots.org/,In-person UK-based conference.
 Teaching;,Community & Events,International Conference on Teaching Statistics (ICOTS),https://icots12.oa-event.com/,In-person conference with location varying every 4 years.
 Teaching;,Community & Events,Teaching and Learning Mathematics Online (TALMO),https://talmo.uk/,Series of online seminars on teaching and learning mathematics.
@@ -222,6 +224,7 @@ Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welco
 Data-science;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Maps;,Website,Rare Maps,https://raremaps.com/category/maps,
+Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freely available Shiny apps for teaching ecology and evolution models
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.addtwodigital.com/blog,
 Data-viz;,Website,"Mistakes, we've drawn a few",https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368,
@@ -335,6 +338,8 @@ Data-science;,Newsletter,Visualizing Data,https://visualisingdata.ck.page/b9efcf
 Data-science;R;,Newsletter,RWeekly,https://rweekly.org/,Weekly newsletter with great things from the R community.
 Data-science;,Newsletter,Notes on Data and Learning,https://federicagazzelloni.substack.com/,"Writing on data science, statistics, and R."
 Data-viz;,Newsletter,Quantum of Sollazzo,https://quantumofsollazzo.com/,
+Data-science;R;,Newsletter,Reveal Research,https://reveal-research.kit.com/posts,
+Data-science;R;,Newsletter,RDM Weekly,https://rdmweekly.substack.com/,"A weekly roundup of research data management resources, curated by Crystal Lewis."
 Data-viz;,Newsletter,The Crunch Newsletter,https://www.theguardian.com/news/series/the-crunch-data-newsletter-email,
 Data-viz;,Newsletter,Datawrapper Newsletter,https://www.datawrapper.de/blog/newsletter,
 Data-viz;,Newsletter,The Visualising Data Newsletter,https://visualisingdata.com/newsletter/,
