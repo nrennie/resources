@@ -2,12 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/R/index.html",
       "/all/index.html",
       "/data-science/index.html",
       "/data-viz/index.html",
       "/maps/index.html",
       "/python/index.html",
+      "/R/index.html",
       "/teaching/index.html"
     ]
   }
