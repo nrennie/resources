@@ -9,7 +9,9 @@ listing:
   id: resources-listing
   type: grid
   grid-columns: 4
-  sort: "date desc"
+  sort:
+    - "order"
+    - "title"
   categories: false
 format:
   html:

@@ -1,7 +1,8 @@
 ---
 title: "All resources"
-description: "A collection of useful, freely-available resources and links related to data science, visualisation, teaching, and programming, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+description: "A collection of useful, freely-available resources and links related to data science, visualisation, teaching, and programming, curated by Nicola Rennie."
 image: "featured.png"
+order: 1
 ---
 
 ```{r}
