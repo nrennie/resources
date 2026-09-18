@@ -1,29 +1,32 @@
 Lists,Type,Title,Link,Notes
-Data-science;R;,People & Organisations,Olga Martel,https://onlinestatisticstutoring.com/blog/,
-Data-science;R;,People & Organisations,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,
-Data-science;,People & Organisations,Jonathan Carroll,https://jcarroll.com.au/,
-Data-science;,People & Organisations,Meghan Harris,https://thetidytrekker.com/blog,
-Data-science;R;,People & Organisations,Luis D. Verde Arregoitia,https://luisdva.github.io/,
-Data-science;,People & Organisations,Jack Kennedy,https://jcken95.github.io/projects.html,
-Data-science;R;,People & Organisations,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/,
-Data-science;R;,People & Organisations,Danielle Navarro,https://blog.djnavarro.net/,
-Data-science;R;,People & Organisations,Jen Richmond,https://jenrichmond.github.io/,
-Data-science;,People & Organisations,Dan Oehm,https://gradientdescending.com/,
-Data-science;,People & Organisations,Josiah Parry,https://josiahparry.com/posts/,
-Data-science;R;,People & Organisations,Shannon Pileggi,https://www.pipinghotdata.com/blog,
-Data-science;R;,People & Organisations,Albert Rapp,https://albert-rapp.de/,
+Data-science;R;,People & Organisations,Olga Martel,https://onlinestatisticstutoring.com/blog/,Statistics and programming tutoring for university students.
+Data-science;R;,People & Organisations,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,"Writings about R, education, communities of practice, research, data science, experiences, talks and some more personal stuff. "
+Data-viz;,People & Organisations,Or Misgav,https://ormisgav.online/,Making abstract data speak.
+Data-science;,People & Organisations,Jonathan Carroll,https://jcarroll.com.au/,Theoretical physicist turned R developer.
+Data-science;,People & Organisations,Meghan Harris,https://thetidytrekker.com/blog,"R Engineer and Data Scientist passionate about development quality, reproducible research, and building tools that make data work more reliable and accessible. "
+Data-science;R;,People & Organisations,Jadey Ryan,https://jadeyryan.com/,Cat-obsessed environmental data scientist.
+Data-science;R;,People & Organisations,Luis D. Verde Arregoitia,https://luisdva.github.io/,"News, updates on research articles, R code, and blog posts."
+Data-science;,People & Organisations,Jack Kennedy,https://jcken95.github.io/projects.html,"A statistician, data scientist and educator."
+Data-science;R;,People & Organisations,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/,"Cognitive neuroscience, using R and teaching the world the wonders of R."
+Data-science;R;,People & Organisations,Danielle Navarro,https://blog.djnavarro.net/,"Data scientist, recovering academic, and generative artist."
+Data-science;R;,People & Organisations,Jen Richmond,https://jenrichmond.github.io/,"A developmental psychologist who is interested in open science, reproducibility and R."
+Data-science;,People & Organisations,Dan Oehm,https://gradientdescending.com/,Finding useful things to do with data.
+Data-science;Maps;,People & Organisations,Josiah Parry,https://josiah.rs/,Senior Product Engineer on the Spatial Analysis team at Esri.
+Data-science;R;,People & Organisations,Shannon Pileggi,https://www.pipinghotdata.com/blog,Professional educator and statistical consultant.
+Data-science;R;,People & Organisations,Albert Rapp,https://albert-rapp.de/,"Data Analytics, Web Development, and Visualization."
 Data-science;R;Data-viz;,People & Organisations,Nicola Rennie,https://nrennie.rbind.io/,"Blog about data science, visualisation, and R."
-Data-science;R;,People & Organisations,Bruno Rodrigues,https://www.brodrigues.co/blog/,
-Data-science;R;,People & Organisations,Maëlle Salmon,https://masalmon.eu/,
-Data-science;R;,People & Organisations,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,
-Data-science;R;,People & Organisations,Julia Silge,https://juliasilge.com/blog/,
-Data-science;R;Data-viz;,People & Organisations,Cara Thompson (Telling Stories with Data),https://www.cararthompson.com/posts,
-Data-science;,People & Organisations,Zak Varty,https://www.zakvarty.com/,
-Data-science;R;Python;,People & Organisations,Isabella Velásquez,https://ivelasq.rbind.io/,
-Data-science;R;,People & Organisations,Yihui Xie,https://yihui.org/en/,
-Data-science;,People & Organisations,Matthew B. Jané,https://matthewbjane.github.io/blog.html,
-Data-science;R;,People & Organisations,Crystal Lewis,https://cghlewis.com/,
-Data-science;,People & Organisations,Emily Riederer,https://www.emilyriederer.com/,
+Data-science;R;,People & Organisations,Bruno Rodrigues,https://www.brodrigues.co,"R, Nix, Econometrics and Data Science."
+Data-science;R;,People & Organisations,Maëlle Salmon,https://masalmon.eu/,R(esearch) Software Engineer & Blogger.
+Data-science;R;,People & Organisations,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,"Mainly R but also will discss SQL, C and Linux."
+Data-science;R;,People & Organisations,Julia Silge,https://juliasilge.com/blog/,"Machine learning, text analysis, and more."
+Data-science;R;Data-viz;,People & Organisations,Cara Thompson (Telling Stories with Data),https://www.cararthompson.com/posts,Data visualisation consultant with an academic background.
+Data-viz;R;Maps;,People & Organisations,Roger Beecham,https://www.roger-beecham.com/,Methods-oriented research in data visualization and spatial analysis.
+Data-science;Teaching;,People & Organisations,Zak Varty,https://www.zakvarty.com/,"Statistician, data scientist and educator."
+Data-science;R;Python;,People & Organisations,Isabella Velásquez,https://ivelasq.rbind.io/,Senior Developer Advocate at Posit.
+Data-science;R;,People & Organisations,Yihui Xie,https://yihui.org/en/,"Blog is about statistics, R, graphics, life, and fun, with a special focus on R."
+Data-science;,People & Organisations,Matthew B. Jané,https://matthewbjane.github.io/blog.html,Meta-analysis stuff and sometimes measurement issues.
+Data-science;R;,People & Organisations,Crystal Lewis,https://cghlewis.com/,Freelance consultant and trainer with over 10 years of experience as a data manager in the field of education research.
+Data-science;,People & Organisations,Emily Riederer,https://www.emilyriederer.com/,Developing reproducible workflows and exposing the tacit knowledge of data work.
 Data-science;Python;,People & Organisations,Rebecca Barter,https://rebeccabarter.com/,
 Data-science;,People & Organisations,Stephen Turner,https://blog.stephenturner.us/,
 Data-science;Python;,People & Organisations,Rami Krispin,https://medium.com/@rami.krispin,
@@ -52,7 +55,10 @@ Data-viz;R;,People & Organisations,Rita Giordano,https://ritagiordano.co.uk/,
 Data-viz;,People & Organisations,Federica Fragapane,https://www.domestika.org/en/federica_fragapane,
 Data-viz;,People & Organisations,Tanya Shapiro,https://tanyaviz.com/,
 Data-viz;,People & Organisations,Kat Greenbrook (Rogue Penguin),https://www.roguepenguin.co.nz/blog,
+Data-viz;,People & Organisations,Ahmad Barclay,https://ahmadbarclay.com,"Architect, designer, web developer, visual communicator engaged in a variety of projects involving data visualization, visual storytelling and learning through play."
 Data-viz;R;,People & Organisations,Michael Friendly,https://www.datavis.ca/,
+Data-science;R;,People & Organisations,Hadley Wickham,https://hadley.nz/,"Building tools (computational and cognitive) that make data science easier, faster, and more fun."
+Data-viz;,People & Organisations,Henry Lau,https://www.henrylau.co.uk,Digital Science Communicator 
 Data-viz;,People & Organisations,Alli Torban,https://www.allitorban.com/,
 Data-viz;,People & Organisations,Amy Cesal,https://www.amycesal.com/,
 Data-viz;,People & Organisations,Ihar Yanouski,https://yanouski.com/,
@@ -222,6 +228,7 @@ Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-
 Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
 Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,
 Data-science;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
+Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,"A project from the Royal Statistical Society, in partnership with the American Statistical Association to bridge the gap between rigorous analysis and real time relevance."
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Maps;,Website,Rare Maps,https://raremaps.com/category/maps,
 Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freely available Shiny apps for teaching ecology and evolution models
@@ -268,7 +275,7 @@ Data-viz;,Accessibility & Colour,Building color palettes in your data visualizat
 Data-viz;,Accessibility & Colour,Analysing and comparing color palettes with cols4all,https://cols4all.github.io/cols4all-R/articles/01_paper.html,
 Data-viz;,Accessibility & Colour,How to find and create good color palettes,https://www.datawrapper.de/blog/create-good-color-palettes,
 Data-viz;,Accessibility & Colour,Python color palette finder,https://python-graph-gallery.com/color-palette-finder/,
-Data-viz;,Accessibility & Colour,Poline,https://meodai.github.io/poline/,
+Data-viz;,Accessibility & Colour,Poline,https://meodai.github.io/poline/,"Color palette generation library,"
 Data-viz;Maps;,Accessibility & Colour,CARTOColors,https://carto.com/carto-colors/,
 Data-viz;Maps;,Accessibility & Colour,Color palettes for geoscientific visualization,https://dominicroye.github.io/color-for-geoscience/,
 Data-viz;,Accessibility & Colour,Writing alt text for data visualization,https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81,
@@ -296,10 +303,11 @@ Data-viz;,Software & Packages,SveltePlot,https://svelteplot.dev/,
 Data-viz;,Software & Packages,Observable,https://observablehq.com/,
 Data-viz;,Software & Packages,Tableau,https://www.tableau.com/,Low code
 Data-viz;,Software & Packages,D3,https://d3js.org/,
+Data-viz;,Software & Packages,dbt Charts,https://dbtcharts.com/,"Charts built for Chat: a simple declarative YAML language to build better dashboards you can govern, using fewer tokens. "
 Data-viz;,Software & Packages,RAWGraphs,https://www.rawgraphs.io/,Low code
-Data-viz;R;,Software & Packages,ggplot2,https://ggplot2.tidyverse.org/,
-Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,
-Data-viz;,Software & Packages,Highcharts,https://www.highcharts.com/,
+Data-viz;R;,Software & Packages,ggplot2,https://ggplot2.tidyverse.org/,R packages that implements that Grammar of Graphics.
+Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,Re-implementation of ‘ggplot2’ that brings the Grammar of Graphics to Python.
+Data-viz;,Software & Packages,Highcharts,https://www.highcharts.com/,Javascript charting library.
 Data-viz;,Software & Packages,Inkscape,https://inkscape.org/,Low code
 Data-viz;,Software & Packages,Figma,https://www.figma.com/,Low code
 Maps;,Software & Packages,QGIS,https://qgis.org/,
