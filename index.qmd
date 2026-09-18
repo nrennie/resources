@@ -20,6 +20,7 @@ format:
       dark: [flatly,assets/css/custom.scss,assets/css/custom-dark.scss]
     page-layout: full
     toc: false
+engine: knitr
 ---
 
 :::{#resources-listing}
