@@ -5,6 +5,8 @@ image: "featured.png"
 order: 1
 ---
 
+{{< include ../utils/footer-text.qmd >}}
+
 ```{r}
 #| file: ../utils/utils.R
 #| echo: false
@@ -17,4 +19,3 @@ order: 1
 resource_list("")
 ```
 
-{{< include ../utils/footer-text.qmd >}}

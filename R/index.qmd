@@ -1,8 +1,10 @@
 ---
 title: "R resources"
-description: "A collection of useful, freely-available R programming resources and links, curated by [Nicola Rennie](https://nrennie.rbind.io/)."
+description: "A collection of useful, freely-available R programming resources and links, curated by Nicola Rennie."
 image: "featured.png"
 ---
+
+{{< include ../utils/footer-text.qmd >}}
 
 ```{r}
 #| file: ../utils/utils.R
@@ -16,4 +18,3 @@ image: "featured.png"
 resource_list("R")
 ```
 
-{{< include ../utils/footer-text.qmd >}}

@@ -25,5 +25,5 @@ format:
 :::{#resources-listing}
 :::
 
-
+{{< include ../utils/footer-text.qmd >}}
 
