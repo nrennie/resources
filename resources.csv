@@ -127,6 +127,7 @@ Data-science;Python;,Programming Books,Python for Data Analysis,https://wesmckin
 Data-science;Python;,Programming Books,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,
 Data-science;Python;,Programming Books,Python Polars: The Definitive Guide,https://polarsguide.com/,
 Data-science;R;,Programming Books,R Cookbook,https://rc2e.com/,
+Data-viz;R;,Programming Books,ggplot2 extension cookbook,https://evamaerey.github.io/ggplot2-extension-cookbook/,Aims to provide ggplot2 some extension strategies in a consistent and accessible way.
 Data-science;R;,Programming Books,R for Data Science,https://r4ds.hadley.nz/,
 Data-science;R;,Programming Books,R for Health Data Science,https://argoshare.is.ed.ac.uk/healthyr_book/,
 Data-science;R;,Programming Books,R for the Rest of Us: A Statistics-Free Introduction,https://book.rfortherestofus.com/,
@@ -217,7 +218,7 @@ Data-science;R;,Videos & Podcasts,RWeekly Podcast,https://serve.podhome.fm/r-wee
 Data-science;,Videos & Podcasts,Posit Data Science Lab recordings,https://www.youtube.com/playlist?list=PL9HYL-VRX0oSeWeMEGQt0id7adYQXebhT,
 Data-science;,Videos & Podcasts,posit::conf(2025) recordings,https://www.youtube.com/playlist?list=PL9HYL-VRX0oTixlfDPCS5RW_F1pccERRe,
 Data-viz;,Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,
-Data-viz;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
+Data-viz;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
 Data-science;R;Python;,Website,Diffify,https://diffify.com/,Compare versions of R and Python packages.
 Data-science;,Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,"Resources, tips, and ideas to learn R for health data science."
 Data-science;R;Teaching;,Website,PsyTeachR,https://psyteachr.github.io/,
@@ -227,7 +228,6 @@ Data-science;R;,Website,Tidymodels website,https://www.tidymodels.org/,
 Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,
 Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
 Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,
-Data-science;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
 Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,"A project from the Royal Statistical Society, in partnership with the American Statistical Association to bridge the gap between rigorous analysis and real time relevance."
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Maps;,Website,Rare Maps,https://raremaps.com/category/maps,
