@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/all/index.html",
+      "/ai/index.html",
       "/data-science/index.html",
       "/data-viz/index.html",
       "/maps/index.html",
