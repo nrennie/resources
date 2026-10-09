@@ -28,24 +28,23 @@ Data-science;R;,People & Organisations,Yihui Xie,https://yihui.org/en/,"Blog is 
 Data-science;,People & Organisations,Matthew B. Jané,https://matthewbjane.github.io/blog.html,Meta-analysis stuff and sometimes measurement issues.
 Data-science;R;,People & Organisations,Crystal Lewis,https://cghlewis.com/,Freelance consultant and trainer with over 10 years of experience as a data manager in the field of education research.
 Data-science;,People & Organisations,Emily Riederer,https://www.emilyriederer.com/,Developing reproducible workflows and exposing the tacit knowledge of data work.
-Data-science;Python;,People & Organisations,Rebecca Barter,https://rebeccabarter.com/,
-R;Python;,People & Organisations,Datacove,https://datacove.co.uk/blog/,
+Data-science;Python;,People & Organisations,Rebecca Barter,https://rebeccabarter.com/,"Statistician, data scientist, educator, and communicator who has a dual passion for empowering others by teaching critical thinking and technical skills for data science, and for uncovering the hidden patterns and stories that live inside complex datasets (primarily related to healthcare and medicine)"
+R;Python;,People & Organisations,Datacove,https://datacove.co.uk/blog/,"Data science consultancy and training company, and current organisers of EARL conference."
 Data-science;AI;,People & Organisations,Cat Hicks,https://www.drcathicks.com/,Psychological scientist studying software teams and technology work.
-Data-science;,People & Organisations,Stephen Turner,https://blog.stephenturner.us/,
-Data-science;Python;AI;,People & Organisations,Rami Krispin,https://medium.com/@rami.krispin,
-Data-science;Teaching;,People & Organisations,Andrew Gelman,https://statmodeling.stat.columbia.edu/,
-Data-science;,People & Organisations,Frank Harrell,https://www.fharrell.com/#posts,
-Data-science;Data-viz;,People & Organisations,Kieran Healy,https://kieranhealy.org/blog/,
-Teaching;R;,People & Organisations,Andy Field,https://profandyfield.com/,
-Data-science;,People & Organisations,Dorothy Bishop,https://deevybee.blogspot.com/,
+Data-science;,People & Organisations,Stephen Turner,https://blog.stephenturner.us/,Associate Professor and Assistant Dean for Research at the University of Virginia School of Data Science and advisor to several biotech startups.
+Data-science;Python;AI;,People & Organisations,Rami Krispin,https://medium.com/@rami.krispin,"Data science and engineering manager, mainly focused on time series analysis, forecasting, and MLops applications."
+Data-science;Teaching;,People & Organisations,Andrew Gelman,https://statmodeling.stat.columbia.edu/,"Multi-author blog on Statistical Modeling, Causal Inference, and Social Science."
+Data-science;,People & Organisations,Frank Harrell (Statistical Thinking),https://www.fharrell.com/#posts,Blog devoted to statistical thinking and its impact on science and everyday life.
+Data-science;Data-viz;,People & Organisations,Kieran Healy,https://kieranhealy.org/blog/,"Professor of Sociology at Duke University, who also works on techniques and methods for data visualization, and some problems in social theory."
+Teaching;R;,People & Organisations,Andy Field,https://profandyfield.com/,"Professor of Quantitative Methods at the University of Sussex, and author of books on statistics, R, and SPSS."
+Data-science;,People & Organisations,Dorothy Bishop,https://deevybee.blogspot.com/,"Blog on academic-related matters, particularly related to reproducibility."
 Data-science;Teaching;,People & Organisations,Mine Dogucu,https://www.datapedagogy.com/,"Blog about teaching, statistics, and R."
-Data-science;,People & Organisations,Emil Hvitfeldt,https://emilhvitfeldt.com/blog,
-Data-science;,People & Organisations,Appsilon,https://www.appsilon.com/blog,
-Data-science;,People & Organisations,her data,https://www.herdata.net/mainblog,
+Data-science;,People & Organisations,Emil Hvitfeldt,https://emilhvitfeldt.com/blog,Software Engineer at Posit PBC working on the tidymodels team.
+Data-science;,People & Organisations,Appsilon,https://www.appsilon.com/blog,"Technology partner for life sciences companies, delivering open-source AI, R and Python solutions, cloud-based statistical computing environments, and SAS-to-Open Source migration."
 Data-science;,People & Organisations,Jumping Rivers,https://www.jumpingrivers.com/blog/,
 Data-science;AI;,People & Organisations,Posit,https://posit.co/blog/,
 Data-science;R;,People & Organisations,rOpenSci,https://ropensci.org/blog/,
-Data-science;,People & Organisations,S-Cubed,https://scubed.rbind.io/,"Blog by Sophie Lee about statistics, education, and R tips."
+Data-science;,People & Organisations,Sophie Lee (S-Cubed),https://scubed.rbind.io/,"Blog by Sophie Lee about statistics, education, and R tips."
 Data-science;R;,People & Organisations,ThinkR,https://rtask.thinkr.fr/blog/,
 Data-science;R;,People & Organisations,Tidyverse,https://www.tidyverse.org/blog/,
 Data-science;,People & Organisations,Open Forecasting,https://openforecast.org/,
@@ -184,6 +183,8 @@ Data-science;R;,Community & Events,A list of R conferences and meetings,https://
 Teaching;,Community & Events,RSS Teaching Statistics Section,https://rss.org.uk/membership/rss-groups-and-committees/sections/teaching-statistics/,Section of the Royal Statistical Society focusing on post-18 education and professional training.
 Data-science;,Community & Events,Posit Data Science Hangout,https://posit.co/data-science-hangout/,Weekly data science community meeting.
 Data-science;,Community & Events,Posit Data Science Lab,https://pos.it/dslab,Weekly data science meeting with unscripted screen-sharing and live coding happening.
+Data-science;,Community & Events,her data,https://www.herdata.net/mainblog,Empowering and Connecting Women in Data.
+Data-science;,Community & Events,Women of Open Source,https://womenofopensource.org/,A community for women interested in and/or contributing to Open Source.
 Teaching;,Community & Events,Burwalls,https://sites.google.com/view/burwalls/home,A network for Teachers of Statistics in the Health Sciences.
 Data-science;,Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,A topic-centric list of HQ open datasets.
 Data-science;,Data,Data.gov,https://data.gov/,U.S. Government's Open Data
@@ -344,24 +345,25 @@ Data-viz;,Inspiration,USAFacts,https://usafacts.org/visualizations/,
 Data-viz;,Inspiration,Financial Times Visual Journalism,https://www.ft.com/visual-and-data-journalism,
 Data-viz;,Inspiration,The Guardian Visual Journalism,https://www.theguardian.com/interactive,
 Data-viz;,Inspiration,Beautiful Public Data,https://www.beautifulpublicdata.com/,
-Data-viz;Maps;,Inspiration,Engineers of Map Art,https://www.research-collection.ethz.ch/entities/publication/a5baabb8-075e-401c-842a-4d77f3badd42,
-Data-viz;R;,Inspiration,R Graph Gallery,https://r-graph-gallery.com/,
-Data-viz;Python;,Inspiration,Python Graph Gallery,https://python-graph-gallery.com/,
+Data-viz;Maps;,Inspiration,Engineers of Map Art,https://www.research-collection.ethz.ch/entities/publication/a5baabb8-075e-401c-842a-4d77f3badd42,This publication provides a comprehensive overview of 170 years of cartography at ETH Zurich and pays tribute to the personalities who have contributed to the development of the discipline. 
+Data-viz;R;,Inspiration,R Graph Gallery,https://r-graph-gallery.com/,A collection of hundreds of charts made with R.
+Data-viz;,Inspiration,Data & Eggs,https://eggs.thedataface.com/,A living library of standout data storytelling.
+Data-viz;Python;,Inspiration,Python Graph Gallery,https://python-graph-gallery.com/,A collection of hundreds of charts made with Python.
 Data-science;,Newsletter,Counting Stuff,https://www.counting-stuff.com/,Weekly newsletter about data science.
 Data-science;,Newsletter,Data Elixir,https://dataelixir.com/,"Weekly newsletter covering machine learning, data visualization, analytics, and strategy."
-Data-science;,Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,
-Data-science;AI;,Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/,
-Data-science;AI;,Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/,
+Data-science;,Newsletter,Data Science Weekly,https://datascienceweekly.substack.com/,Weekly newsletter with an in-depth look at the Data Science / Machine Learning / AI / Data Engineering world.
+Data-science;AI;,Newsletter,Rami Krispin,https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/,Weekly curated update on data science and engineering topics and resources.
+Data-science;AI;,Newsletter,Royal Statistical Society's Data Science and AI Section,https://rssdsaisection.substack.com/,Monthly newsletter from the Royal Statistical Society’s Data Science and AI Section.
 Data-science;R;,Newsletter,RWeekly,https://rweekly.org/,Weekly newsletter with great things from the R community.
 Data-science;,Newsletter,Notes on Data and Learning,https://federicagazzelloni.substack.com/,"Writing on data science, statistics, and R."
-Data-viz;,Newsletter,Quantum of Sollazzo,https://quantumofsollazzo.com/,
-Data-viz;,Newsletter,Graph Paper,https://graphpaper.substack.com/,
-Data-science;R;,Newsletter,Reveal Research,https://reveal-research.kit.com/posts,
+Data-viz;,Newsletter,Quantum of Sollazzo,https://quantumofsollazzo.com/,"Weekly data newsletter by Giuseppe Sollazzo covering the best of data journalism, data visualization, tools, tutorials, data thinking, and AI."
+Data-viz;,Newsletter,Graph Paper,https://graphpaper.substack.com/,"Captivating graphics, enthusiastic hyperlinking, circuitous introductions, intriguing ideas, armchair philosophy, hand-picked curiosities, contributions from the brightest minds in the field of data visualisation."
+Data-science;R;,Newsletter,Reveal Research,https://reveal-research.kit.com/posts,Newsletter with insights about the hidden curriculum of research training. 
 Data-science;R;,Newsletter,RDM Weekly,https://rdmweekly.substack.com/,"A weekly roundup of research data management resources, curated by Crystal Lewis."
 Data-viz;,Newsletter,The Crunch Newsletter,https://www.theguardian.com/news/series/the-crunch-data-newsletter-email,
-Data-viz;,Newsletter,Datawrapper Newsletter,https://www.datawrapper.de/blog/newsletter,
+Data-viz;,Newsletter,Datawrapper Newsletter,https://www.datawrapper.de/blog/newsletter,"Multiple weekly newsletters on updates to Datawrapper, weekly charts, and round ups of great visualisations."
 Data-viz;,Newsletter,The Visualising Data Newsletter,https://visualisingdata.com/newsletter/,Monthly data visualisation newsletter from Andy Kirk.
-Data-viz;,Newsletter,The Pudding Newsletter,https://pudding.cool/subscribe,
-Data-viz;,Newsletter,Chartography,https://www.chartography.net/,
-Data-viz;,Newsletter,The Data Storyteller's Newsletter,https://us21.campaign-archive.com/home/?u=aa646e8e2a136beb294a0817a&id=1d5ff1558e,
-Data-viz;,Newsletter,Off the Charts,https://www.economist.com/newsletters/off-the-charts,
+Data-viz;,Newsletter,The Pudding Newsletter,https://pudding.cool/subscribe,Archives of newsletters from The Pudding about visual storytelling projects.
+Data-viz;,Newsletter,Chartography,https://www.chartography.net/,"Weekly newsletter by RJ Andrews about charts, diagrams, and maps—their craft, their history, and their high‑stakes practice."
+Data-viz;,Newsletter,The Data Storyteller's Newsletter,https://www.roguepenguin.co.nz/newsletter,Monthly newsletter from Kat Greenbrook (Rogue Penguin) with data storytelling tips and updates.
+Data-viz;,Newsletter,Off the Charts,https://www.economist.com/newsletters/off-the-charts,"Weekly posts from The Economist's data journalists as they lift the lid on their process of gathering, analysing and visualising data."
