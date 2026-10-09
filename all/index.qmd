@@ -1,6 +1,7 @@
 ---
 title: "All resources"
-description: "A collection of useful, freely-available resources and links related to data science, visualisation, teaching, and programming, curated by Nicola Rennie."
+subtitle: "A collection of useful, freely-available resources and links related to data science, visualisation, AI, teaching statistics, and programming."
+description: "A collection of useful, freely-available resources and links related to data science, visualisation, AI, teaching statistics, and programming, curated by Nicola Rennie."
 image: "featured.png"
 order: 1
 ---

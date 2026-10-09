@@ -1,6 +1,7 @@
 ---
 title: "R resources"
-description: "A collection of useful, freely-available R programming resources and links, curated by Nicola Rennie."
+subtitle: "A collection of useful, freely-available R programming resources and links, curated by Nicola Rennie."
+description: "A collection of useful, freely-available R programming resources and links."
 image: "featured.png"
 ---
 

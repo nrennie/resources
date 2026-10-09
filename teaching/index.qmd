@@ -1,6 +1,7 @@
 ---
 title: "Teaching statistics resources"
-description: "A collection of useful, freely-available resources and links related to teaching statistics and data science, curated by Nicola Rennie."
+subtitle: "A collection of useful, freely-available resources and links related to teaching statistics and data science, curated by Nicola Rennie."
+description: "A collection of useful, freely-available resources and links related to teaching statistics and data science."
 image: "featured.png"
 ---
 
