@@ -203,6 +203,7 @@ Data-science;,Data,Office for National Statistics API,https://developer.ons.gov.
 Maps;,Data,Open Geography Portal,https://geoportal.statistics.gov.uk/,"Geographic data for the United Kingdom, including shapefiles and geojson downloads."
 Data-science;R;,Data,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/articles/data.html,Datasets that are available through R packages.
 Data-science;Teaching;,Data,Teaching of Statistics in the Health Sciences,https://causeweb.org/tshs/,Datasets that are useful for teaching statistics in health disciplines.
+Data-science;Maps;,Data,Global Data Tracker,https://globaldatatracker.com/,"Free, no-account explorer of 20 World Bank indicators across 217 countries and areas, with country profiles, historical charts, comparisons, CSV downloads and an optional 3D globe."
 Data-science;,Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow,Datasets about LGBTQ+ topics.
 Data-science;,Data,TidyTuesday,https://github.com/rfordatascience/tidytuesday,"Curated list of real world datasets available as CSV files, and via R, Python, and Julia."
 Data-science;,Data,UK Data Service,https://ukdataservice.ac.uk/,"Collection of economic, population, and social research data."
