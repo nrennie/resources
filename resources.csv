@@ -3,6 +3,7 @@ Data-science;R;,People & Organisations,Olga Martel,https://onlinestatisticstutor
 Data-science;R;,People & Organisations,Yanina Bellini Saibene,https://yabellini.netlify.app/blog/,"Writings about R, education, communities of practice, research, data science, experiences, talks and some more personal stuff. "
 Data-viz;,People & Organisations,Or Misgav,https://ormisgav.online/,Making abstract data speak.
 Data-science;AI;,People & Organisations,Simon Couch,https://simonpcouch.com,Building tools for data scientists at Posit
+Data-science;,People & Organisations,Thomas Lumley,https://notstatschat.rbind.io/post/,"Statistical researcher in Auckland, New Zealand."
 Data-science;,People & Organisations,Jonathan Carroll,https://jcarroll.com.au/,Theoretical physicist turned R developer.
 Data-science;,People & Organisations,Meghan Harris,https://thetidytrekker.com/blog,"R Engineer and Data Scientist passionate about development quality, reproducible research, and building tools that make data work more reliable and accessible. "
 Data-science;R;,People & Organisations,Jadey Ryan,https://jadeyryan.com/,Cat-obsessed environmental data scientist.
@@ -190,6 +191,7 @@ Data-science;,Data,Awesome Public Datasets,https://github.com/awesomedata/awesom
 Data-science;,Data,Data.gov,https://data.gov/,U.S. Government's Open Data
 Data-science;,Data,Data Commons,https://datacommons.org/,Offers data exploration tools and cloud-based APIs to access and integrate cleaned datasets.
 Data-science;,Data,European Data,https://data.europa.eu/en,The official portal for European data.
+Data-science;,Data,NBN Atlas,https://nbnatlas.org/,The UK’s largest biodiversity data portal. It brings together the data from multiple sources and makes it available and usable online.
 Data-science;,Data,Data Is Plural,https://www.data-is-plural.com/,A newsletter of useful/curious datasets.
 Data-science;,Data,Google Dataset Search,https://datasetsearch.research.google.com/,Dataset search.
 Data-science;,Data,Information is Beautiful,https://informationisbeautiful.net/data/,Spreadsheet of all the best data from Information is Beautiful.
@@ -291,6 +293,7 @@ Data-viz;,Accessibility & Colour,Writing alt text for data visualization,https:/
 Data-viz;,Accessibility & Colour,How to write text descriptions (alt text) in BBC News articles,https://www.bbc.co.uk/gel/how-to-write-text-descriptions-alt-text,
 Data-viz;,Accessibility & Colour,Why your data viz needs alt text,https://academic.oup.com/jrssig/article/20/1/38/7034177,
 Data-viz;,Accessibility & Colour,Making charts accessible,https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/#section-4,
+Data-viz;,Accessibility & Colour,Chartability,https://chartability.fizz.studio/,"Chartability is a set of heuristics (testable questions) for ensuring that data visualizations, systems, and interfaces are accessible."
 Data-viz;,Accessibility & Colour,Dataviz accessibility resources,https://github.com/dataviza11y/resources,
 Data-viz;,Academic Articles & Journals,"Preference for and understanding of graphs presenting health risk information. The role of age, health literacy, numeracy and graph literacy",https://www.sciencedirect.com/science/article/pii/S0738399120303499?via%3Dihub,
 Data-viz;,Academic Articles & Journals,Judgment error in pie chart variations,https://diglib.eg.org/server/api/core/bitstreams/b0fc6407-96c8-4127-b1cb-6ca990b2ddb0/content,
@@ -348,6 +351,7 @@ Data-viz;,Inspiration,Beautiful Public Data,https://www.beautifulpublicdata.com/
 Data-viz;Maps;,Inspiration,Engineers of Map Art,https://www.research-collection.ethz.ch/entities/publication/a5baabb8-075e-401c-842a-4d77f3badd42,This publication provides a comprehensive overview of 170 years of cartography at ETH Zurich and pays tribute to the personalities who have contributed to the development of the discipline. 
 Data-viz;R;,Inspiration,R Graph Gallery,https://r-graph-gallery.com/,A collection of hundreds of charts made with R.
 Data-viz;,Inspiration,Data & Eggs,https://eggs.thedataface.com/,A living library of standout data storytelling.
+Data-viz;Maps;,Inspiration,World Mapper,https://worldmapper.org/,"A collection of world maps called cartograms, where territories are resized on each map according to the subject of interest."
 Data-viz;Python;,Inspiration,Python Graph Gallery,https://python-graph-gallery.com/,A collection of hundreds of charts made with Python.
 Data-science;,Newsletter,Counting Stuff,https://www.counting-stuff.com/,Weekly newsletter about data science.
 Data-science;,Newsletter,Data Elixir,https://dataelixir.com/,"Weekly newsletter covering machine learning, data visualization, analytics, and strategy."
