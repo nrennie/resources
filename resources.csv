@@ -137,8 +137,10 @@ Data-science;R;,Programming Books,R for Data Science,https://r4ds.hadley.nz/,
 Data-science;R;,Programming Books,R for Health Data Science,https://argoshare.is.ed.ac.uk/healthyr_book/,
 Data-science;R;,Programming Books,R for the Rest of Us: A Statistics-Free Introduction,https://book.rfortherestofus.com/,
 Data-science;R;Data-viz;,Programming Books,R Graphics Cookbook,https://r-graphics.org/,
-Data-science;,Programming Books,R in Production,https://r-in-production.org/,
-Data-science;,Programming Books,R Packages,https://r-pkgs.org/,
+Data-science;R;,Programming Books,R in Production,https://r-in-production.org/,
+Data-science;R;,Programming Books,R Packages,https://r-pkgs.org/,
+Data-science;Teaching;,Programming Books,The Carpentries Community Cookbook,https://cookbook.carpentries.org/,"A place to gather together background, and personal stories about a range of community building tools and practices useful for creating peer learning communities in academic and research environments."
+Teaching;,Programming Books,Teaching Programming Across Disciplines,https://teaching-programming.github.io/book/,"A collection of articles on teaching coding kindly, openly, and together."
 Data-science;R;,Programming Books,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,
 Data-science;,Programming Books,The Rust Programming Language,https://doc.rust-lang.org/book/,
 Data-science;R;,Programming Books,Scaling Up With R and Arrow,https://arrowrbook.com/,
