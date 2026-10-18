@@ -320,6 +320,7 @@ Data-viz;,Software & Packages,Flourish,https://flourish.studio/,Low code
 Data-viz;,Software & Packages,Highcharts,https://www.highcharts.com/,Javascript charting library.
 Data-viz;,Software & Packages,Inkscape,https://inkscape.org/,Low code
 Data-viz;,Software & Packages,Observable,https://observablehq.com/,
+Data-viz;,Software & Packages,Pele,https://pele.run/,"Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables."
 Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,Re-implementation of ‘ggplot2’ that brings the Grammar of Graphics to Python.
 AI;,Software & Packages,Posit Assistant,https://assistant.posit.co/,Agentic harness for data science.
 Maps;,Software & Packages,QGIS,https://qgis.org/,
@@ -348,6 +349,7 @@ Data-viz;,Website,Economist style guide,https://design-system.economist.com/docu
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,
 Maps;,Website,Geography for Statistics Training¶,https://onsgeo.github.io/geospatial-training/,Courses and guidance provided by the Office for National Statistics’ Geospatial Team to help you get to grips with using geography and statistics.
+Data-science;,Website,GitMastery,https://gitmastery.me/,"Learn Git commands and concepts through an interactive game. Progress through levels, solve challenges, and become a Git expert."
 Data-viz;,Website,Government Analysis Function,https://analysisfunction.civilservice.gov.uk/area_of_work/data-visualisation/,
 Data-science;,Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,"Resources, tips, and ideas to learn R for health data science."
 Data-viz;,Website,"Mistakes, we've drawn a few",https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368,
@@ -374,3 +376,4 @@ Data-viz;,Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,
 Data-viz;,Website,VisLies,https://www.vislies.org/,
 Data-viz;,Website,VizHub,https://vizhub.com/,
 Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,
+Maps;,Website,playproj: perspective projections,https://hypertidy.github.io/playproj/,"Tool to illustrate map projections by drawing them the way they are built: a point of light, a sphere and a plane."

@@ -26,7 +26,8 @@ to_add <- new_data |>
   filter_out(Link %in% old_data$Link)
 # View(to_add) # Inspect
 new_data <- rbind(old_data, to_add) |>
-  arrange(Type, Title)
+  arrange(Type, Title) |>
+  filter_out(str_detect("Lists", "NA"))
 
 # Save to CSV
 write_csv(new_data, "resources.csv", na = "")
