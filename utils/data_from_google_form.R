@@ -14,6 +14,7 @@ raw_data <- read_sheet(sheet_id)
 
 # Format new data
 new_data <- raw_data |>
+  drop_na(Timestamp) |>
   select(-Timestamp) |>
   mutate(
     Lists = str_replace_all(Lists, ", ", ";"),
@@ -26,8 +27,7 @@ to_add <- new_data |>
   filter_out(Link %in% old_data$Link)
 # View(to_add) # Inspect
 new_data <- rbind(old_data, to_add) |>
-  arrange(Type, Title) |>
-  filter_out(str_detect(Lists, "NA"))
+  arrange(Type, Title)
 
 # Save to CSV
 write_csv(new_data, "resources.csv", na = "")
