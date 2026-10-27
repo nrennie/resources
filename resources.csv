@@ -11,6 +11,7 @@ Data-viz;,Academic Articles & Journals,Nightingale,https://nightingaledvs.com/,J
 Data-viz;,Academic Articles & Journals,"Preference for and understanding of graphs presenting health risk information. The role of age, health literacy, numeracy and graph literacy",https://www.sciencedirect.com/science/article/pii/S0738399120303499?via%3Dihub,
 Data-viz;Teaching;,Academic Articles & Journals,Psychology of data visualization,https://friendly.github.io/6135/,"Course materials for Psy 6135: Psychology of Data Visualization, from Michael Friendly."
 Data-viz;,Academic Articles & Journals,Visible Language,https://journals.uc.edu/index.php/vl/issue/archive,
+Data-viz;,Academic Articles & Journals,Visualizing real-time multivariate data using preattentive processing,https://healey.csc.ncsu.edu/publications/15844-visualizing-real-time-multivariate-data-using-preattentive-processing,"Paper describing techniques that take advantage of an ability of the human visual system called preattentive processing. Preattentive processing refers to an initial organization of the visual system based on operations believed to be rapid, automatic, and spatially parallel."
 Data-viz;,Academic Articles & Journals,Visualizing uncertainty about the future,https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf,
 Data-viz;,Academic Articles & Journals,What Makes a Visualization Memorable?,https://ieeexplore.ieee.org/abstract/document/6634103,
 Data-viz;R;,Academic Articles & Journals,ggdist: Visualizations of Distributions and Uncertainty in the Grammar of Graphics,https://doi.org/10.1109/TVCG.2023.3327195,
@@ -83,6 +84,7 @@ Data-science;,Data,Data Is Plural,https://www.data-is-plural.com/,A newsletter o
 Data-science;,Data,Data.gov,https://data.gov/,U.S. Government's Open Data
 Data-science;,Data,Dryad,https://datadryad.org/stash,Open data publishing platform.
 Data-science;,Data,European Data,https://data.europa.eu/en,The official portal for European data.
+Data-science;,Data,Free Datasets for Social Science Research,https://github.com/toddrjones/datasets,"A compilation of 100+ free datasets for use in social science, applied microeconomics, data visualization, etc."
 Data-science;Maps;,Data,Global Data Tracker,https://globaldatatracker.com/,"Free, no-account explorer of 20 World Bank indicators across 217 countries and areas, with country profiles, historical charts, comparisons, CSV downloads and an optional 3D globe."
 Data-science;,Data,Google Dataset Search,https://datasetsearch.research.google.com/,Dataset search.
 Data-science;,Data,Information is Beautiful,https://informationisbeautiful.net/data/,Spreadsheet of all the best data from Information is Beautiful.
@@ -157,6 +159,7 @@ Teaching;R;,People & Organisations,Andy Field,https://profandyfield.com/,"Profes
 Data-viz;,People & Organisations,Andy Kirk (Visualizing Data),https://visualisingdata.com/,
 Data-science;,People & Organisations,Appsilon,https://www.appsilon.com/blog,"Technology partner for life sciences companies, delivering open-source AI, R and Python solutions, cloud-based statistical computing environments, and SAS-to-Open Source migration."
 Data-science;R;,People & Organisations,Athanasia Mo Mowinckel,https://drmowinckels.io/blog/,"Cognitive neuroscience, using R and teaching the world the wonders of R."
+Data-science;,People & Organisations,Ben Schneider (Practical Significance),https://www.practicalsignificance.com/,"Blog about statistics, survey methodology, and data science workflows."
 Data-science;R;,People & Organisations,Bruno Rodrigues,https://www.brodrigues.co,"R, Nix, Econometrics and Data Science."
 Data-science;R;Data-viz;,People & Organisations,Cara Thompson (Telling Stories with Data),https://www.cararthompson.com/posts,Data visualisation consultant with an academic background.
 Data-science;AI;,People & Organisations,Cat Hicks,https://www.drcathicks.com/,Psychological scientist studying software teams and technology work.
@@ -197,6 +200,7 @@ Data-science;AI;,People & Organisations,Kristen Maevyn,https://maevyn.codes/essa
 Data-viz;,People & Organisations,Lisa Charlotte Muth,https://lisacharlottemuth.com/,
 Data-viz;,People & Organisations,Lisa Hornung (Inside Numbers),https://inside-numbers.com/,
 Data-science;R;,People & Organisations,Luis D. Verde Arregoitia,https://luisdva.github.io/,"News, updates on research articles, R code, and blog posts."
+Data-viz;Maps;,People & Organisations,Matt Khinda,https://mattkhinda.city/,"Brooklyn-based designer and urban planner making maps, graphics, and data visualizations about cities."
 Data-science;,People & Organisations,Matthew B. Jané,https://matthewbjane.github.io/blog.html,Meta-analysis stuff and sometimes measurement issues.
 Data-viz;,People & Organisations,Matthias Stahl,https://www.higsch.com/,
 Data-science;R;,People & Organisations,Maëlle Salmon,https://masalmon.eu/,R(esearch) Software Engineer & Blogger.
