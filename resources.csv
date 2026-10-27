@@ -17,10 +17,10 @@ Data-viz;,Academic Articles & Journals,What Makes a Visualization Memorable?,htt
 Data-viz;R;,Academic Articles & Journals,ggdist: Visualizations of Distributions and Uncertainty in the Grammar of Graphics,https://doi.org/10.1109/TVCG.2023.3327195,
 Data-viz;,Accessibility & Colour,Analysing and comparing color palettes with cols4all,https://cols4all.github.io/cols4all-R/articles/01_paper.html,
 Data-viz;,Accessibility & Colour,Building color palettes in your data visualization style guides,https://pmc.ncbi.nlm.nih.gov/articles/PMC10797256/,
-Data-viz;Maps;,Accessibility & Colour,CARTOColors,https://carto.com/carto-colors/,
+Data-viz;Maps;,Accessibility & Colour,CARTOColors,https://carto.com/carto-colors/,"Data-driven color palettes designed for maps, with sequential, diverging, and qualitative options."
 Data-viz;,Accessibility & Colour,Chartability,https://chartability.fizz.studio/,"Chartability is a set of heuristics (testable questions) for ensuring that data visualizations, systems, and interfaces are accessible."
 Data-viz;,Accessibility & Colour,Color Blender,https://meyerweb.com/eric/tools/color-blend/,
-Data-viz;Maps;,Accessibility & Colour,Color palettes for geoscientific visualization,https://dominicroye.github.io/color-for-geoscience/,
+Data-viz;Maps;,Accessibility & Colour,GeoPalettes,https://dominicroye.github.io/color-for-geoscience/,"Color palettes for geoscientific visualization, with options to filter for accessibility and variable type."
 Data-viz;,Accessibility & Colour,ColorBrewer,https://colorbrewer2.org/,
 Data-viz;,Accessibility & Colour,Coolors,https://coolors.co/generate,
 Data-viz;,Accessibility & Colour,Data viz contrast tool,https://datavizcontrast.com/,
@@ -49,7 +49,7 @@ Data-science;R;,Community & Events,Data Science Learning Community,https://dslc.
 Data-viz;Data-science;,Community & Events,Data Visualization Society,https://www.datavisualizationsociety.org/,
 Data-viz;,Community & Events,Dataviz Conferences in 2025,https://medium.com/@yvette110/data-visualization-events-in-2025-a-must-attend-guide-by-datavizlineup-08081964d81c,
 Data-viz;,Community & Events,EuroVis,https://eurovis.org.uk/,
-Maps;,Community & Events,Geospatial Conferences,https://github.com/nowosad/geospatial-conferences,Index of yearly lists of geospatial conferences
+Maps;,Community & Events,Geospatial Conferences,https://github.com/nowosad/geospatial-conferences,Index of yearly lists of geospatial conferences.
 Data-viz;,Community & Events,IEEE VIS,https://ieeevis.org/,
 Teaching;,Community & Events,International Association for Statistics Education,https://iase-web.org/,
 Teaching;,Community & Events,International Conference on Teaching Statistics (ICOTS),https://icots12.oa-event.com/,In-person conference with location varying every 4 years.
@@ -103,7 +103,7 @@ Maps;,Data,UK Hex Maps,https://hexmap.uk/,Brings together openly licensed hex ma
 Data-science;,Data,Unified UK Census Data,https://data.geods.ac.uk/dataset/unified-uk-census-data,"Brings together data from ONS (England & Wales), NRS (Scotland), and NISRA (Northern Ireland) 2021/2022 censuses."
 Data-science;,Data,tidyRainbow,https://github.com/r-lgbtq/tidyrainbow,Datasets about LGBTQ+ topics.
 Data-science;,Data,unicefData,https://github.com/unicef-drp/unicefData,"Access Unicef data through R, Python, or Stata."
-Data-viz;Maps;,Inspiration,2020 30 Day Map Challenge Gallery,https://david.frigge.nz/30DayMapChallenge2020/maps.html,
+Data-viz;Maps;,Inspiration,2020 30 Day Map Challenge Gallery,https://david.frigge.nz/30DayMapChallenge2020/maps.html,Explore 30 Day May Challenge submissions from 2020 collected from Twitter.
 Data-viz;,Inspiration,30 Day Chart Challenge Bluesky,https://bsky.app/profile/30daychartchall.bsky.social,
 Data-viz;,Inspiration,Beautiful Public Data,https://www.beautifulpublicdata.com/,
 Data-viz;,Inspiration,Data & Eggs,https://eggs.thedataface.com/,A living library of standout data storytelling.
@@ -115,7 +115,7 @@ Data-viz;,Inspiration,Help Me Viz,https://helpmeviz.com/,
 Data-viz;,Inspiration,Information is Beautiful,https://informationisbeautiful.net/,
 Data-viz;,Inspiration,Massachusetts (Massive) Visualization Dataset,http://massvis.mit.edu/,
 Data-viz;,Inspiration,New York Times (What's Going On in This Graph?),https://www.nytimes.com/column/whats-going-on-in-this-graph,
-Data-viz;Maps;,Inspiration,Our World in Data,https://ourworldindata.org/,
+Data-viz;Maps;,Inspiration,Our World in Data,https://ourworldindata.org/,"A collaborative project between the University of Oxford and a non-profit organization that publishes research and data on the world's largest problems, such as poverty, disease, climate change, and inequality. "
 Data-viz;,Inspiration,PSI Wonderful Wednesdays,https://vis-sig.github.io/blog/,
 Data-viz;Python;,Inspiration,Python Graph Gallery,https://python-graph-gallery.com/,A collection of hundreds of charts made with Python.
 Data-viz;R;,Inspiration,R Graph Gallery,https://r-graph-gallery.com/,A collection of hundreds of charts made with R.
@@ -263,8 +263,8 @@ Data-science;R;,Programming Books,Exploring Complex Survey Data Analysis Using R
 Data-science;,Programming Books,Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM),https://openforecast.org/adam/,
 Data-science;,Programming Books,Forecasting: Principles and Practice,https://otexts.com/fpp3/,
 Data-science;Data-viz;,Programming Books,Fundamentals of Data Visualization,https://clauswilke.com/dataviz/,
-Data-science;R;Maps;,Programming Books,Geocomputation with R,https://r.geocompx.org/,
-Data-science;Maps;,Programming Books,Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny,https://www.paulamoraga.com/book-geospatial/,
+Data-science;R;Maps;,Programming Books,Geocomputation with R,https://r.geocompx.org/,"Book on geographic data analysis, visualization and modeling with R."
+Data-science;Maps;,Programming Books,Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny,https://www.paulamoraga.com/book-geospatial/,Book that describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R.
 Data-viz;R;,Programming Books,Getting (more out of) Graphics,https://bookdown.org/aatcosada/GmooG-book2,
 Data-science;,Programming Books,Git in Practice,https://github.com/MikeMcQuaid/GitInPractice,
 Data-science;R;,Programming Books,HTTP testing in R,https://books.ropensci.org/http-testing/index.html,
@@ -274,7 +274,7 @@ Data-science;,Programming Books,JavaScript for Data Science,https://third-bit.co
 Data-science;R;,Programming Books,JavaScript for R,https://book.javascript-for-r.com/,
 Data-science;R;,Programming Books,Large Language Model tools for R,https://luisdva.github.io/llmsr-book/,
 Data-science;R;,Programming Books,Mastering Shiny,https://mastering-shiny.org/,
-R;Maps;,Programming Books,Model-based geostatistics for global public health using R,https://mbgr.quarto.pub/book/,
+R;Maps;,Programming Books,Model-based geostatistics for global public health using R,https://mbgr.quarto.pub/book/,Book that demonstrates how to conduct model-based geostatistical analysis of public health data using the RiskMap R package.
 Data-science;,Programming Books,Pro Git,https://git-scm.com/book/en/v2,
 Data-science;Python;,Programming Books,Python Polars: The Definitive Guide,https://polarsguide.com/,"Jeroen Janssens and Thijs Nieuwdorp walk you through every feature of Polars, showing you how to use it for real-world tasks like data wrangling, exploratory data analysis, building pipelines, and more."
 Data-science;Python;,Programming Books,Python for Data Analysis,https://wesmckinney.com/book/,"Data Wrangling with pandas, NumPy, and Jupyter."
@@ -288,7 +288,7 @@ Data-science;R;,Programming Books,R for Health Data Science,https://argoshare.is
 Data-science;R;,Programming Books,R for the Rest of Us: A Statistics-Free Introduction,https://book.rfortherestofus.com/,
 Data-science;R;,Programming Books,R in Production,https://r-in-production.org/,
 Data-science;R;,Programming Books,Scaling Up With R and Arrow,https://arrowrbook.com/,
-Data-science;R;,Programming Books,Spatial Statistics for Data Science: Theory and Practice with R,https://www.paulamoraga.com/book-spatial/index.html,
+Data-science;R;Maps;,Programming Books,Spatial Statistics for Data Science: Theory and Practice with R,https://www.paulamoraga.com/book-spatial,"Book that describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R."
 Data-science;R;,Programming Books,Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (2e),https://moderndive.com/v2/index.html,
 Data-science;R;,Programming Books,Supervised Machine Learning for Text Analysis in R,https://smltar.com/,
 Teaching;,Programming Books,Teaching Programming Across Disciplines,https://teaching-programming.github.io/book/,"A collection of articles on teaching coding kindly, openly, and together."
@@ -311,7 +311,7 @@ Data-science;,Resource List,Awesome Quarto,https://github.com/mcanouil/awesome-q
 Data-viz;,Resource List,Data Folks: List of information designers,https://juanchiparra.github.io/data-folks/,
 Data-viz;,Resource List,Data visualization podcasts,https://baryon.notion.site/b7307b3af0dd45e1a891feb54d996866?v=f72fa21424a74e55ad058cf4e50ba9da,
 Data-viz;,Resource List,Henry Lau resources,https://www.henrylau.co.uk/resources/,
-Data-viz;Maps;,Resource List,More than maps external resources,https://docs.os.uk/more-than-maps/resources/data-visualisation-external-resources,
+Data-viz;Maps;,Resource List,More than maps external resources,https://docs.os.uk/more-than-maps/resources/data-visualisation-external-resources,"A non-exhaustive list of resources which explore aspects of data visualisation in more detail plus lots of useful tools, from Ordnance Survey."
 AI;,Resource List,Posit Agent Skills,https://github.com/posit-dev/skills,A collection of Agent Skills from Posit
 Data-viz;,Resource List,The Pudding (Our Resources),https://pudding.cool/resources/,
 Data-viz;,Resource List,Visualization design resources,https://www.cs.ubc.ca/group/infovis/resources.shtml,
@@ -327,9 +327,9 @@ Data-viz;,Software & Packages,Highcharts,https://www.highcharts.com/,Javascript 
 Data-viz;,Software & Packages,Inkscape,https://inkscape.org/,Low code
 Data-viz;,Software & Packages,Observable,https://observablehq.com/,
 Data-viz;,Software & Packages,Pele,https://pele.run/,"Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables."
-Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,Re-implementation of ‘ggplot2’ that brings the Grammar of Graphics to Python.
+Data-viz;Python;,Software & Packages,Plotnine,https://plotnine.org/,Re-implementation of ggplot2 that brings the Grammar of Graphics to Python.
 AI;,Software & Packages,Posit Assistant,https://assistant.posit.co/,Agentic harness for data science.
-Maps;,Software & Packages,QGIS,https://qgis.org/,
+Maps;,Software & Packages,QGIS,https://qgis.org/,"Free and open-source geographic information system (GIS) software that supports viewing, editing, printing, and analysis of geospatial data in a range of data formats."
 Data-viz;,Software & Packages,RAWGraphs,https://www.rawgraphs.io/,Low code
 Data-viz;,Software & Packages,SveltePlot,https://svelteplot.dev/,
 Data-viz;,Software & Packages,Tableau,https://www.tableau.com/,Low code
@@ -354,7 +354,7 @@ Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freel
 Data-viz;,Website,Economist style guide,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,
-Maps;,Website,Geography for Statistics Training¶,https://onsgeo.github.io/geospatial-training/,Courses and guidance provided by the Office for National Statistics’ Geospatial Team to help you get to grips with using geography and statistics.
+Maps;,Website,Geography for Statistics Training,https://onsgeo.github.io/geospatial-training/,Courses and guidance provided by the Office for National Statistics Geospatial Team to help you get to grips with using geography and statistics.
 Data-science;,Website,GitMastery,https://gitmastery.me/,"Learn Git commands and concepts through an interactive game. Progress through levels, solve challenges, and become a Git expert."
 Data-viz;,Website,Government Analysis Function,https://analysisfunction.civilservice.gov.uk/area_of_work/data-visualisation/,
 Data-science;,Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,"Resources, tips, and ideas to learn R for health data science."
@@ -363,14 +363,14 @@ Data-viz;,Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.u
 Data-viz;,Website,ONS Digital Blog,https://digitalblog.ons.gov.uk/category/dataviz/,
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Data-viz;Teaching;,Website,Open Visualization Academy,https://openvisualizationacademy.org/,"A free repository of knowledge about information design, data visualization, and data literacy; collated by Alberto Cairo."
-Data-viz;Maps;,Website,Ordnance Survey: More than maps,https://docs.os.uk/more-than-maps,
+Data-viz;Maps;,Website,Ordnance Survey: More than maps,https://docs.os.uk/more-than-maps,"Step-by-step tutorials, interactive guides, and expert insights from Ordnance Survey."
 Data-science;,Website,Posit Open Source,https://opensource.posit.co/,
-Data-science;R;Teaching;,Website,PsyTeachR,https://psyteachr.github.io/,"Website contains our open materials for teaching reproducible research, from the psyTeachR team at the University of Glasgow’s School of Psychology and Neuroscience."
+Data-science;R;Teaching;,Website,PsyTeachR,https://psyteachr.github.io/,"Website contains our open materials for teaching reproducible research, from the psyTeachR team at the University of Glasgow School of Psychology and Neuroscience."
 Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
 Data-science;,Website,R for the Rest of Us,https://rfortherestofus.com/,
 Data-viz;,Website,RSS Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Royal Statistical Society data visualisation style guide and best practices.
 Teaching;,Website,RSS Teaching Resources,https://rss.org.uk/resources/resources-for-educators/teaching-resources/,"List of resources for teaching statistics, and supporting public understanding and engagement, from the Royal Statistical Society."
-Maps;,Website,Rare Maps,https://raremaps.com/category/maps,
+Maps;,Website,Rare Maps,https://raremaps.com/category/maps,"Website for selling in antiquarian maps, atlases & related works on paper, included as a source of inspiration."
 Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,"A project from the Royal Statistical Society, in partnership with the American Statistical Association to bridge the gap between rigorous analysis and real time relevance."
 Data-viz;,Website,Saloni's guide to data visualization,https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,
 Data-science;,Website,Significance Magazine,https://significancemagazine.com/,"Bimonthly magazine for anyone interested in statistics and the analysis and interpretation of data, published by the Royal Statistical Society."
