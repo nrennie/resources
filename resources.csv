@@ -15,16 +15,17 @@ Data-viz;,Academic Articles & Journals,Visualizing real-time multivariate data u
 Data-viz;,Academic Articles & Journals,Visualizing uncertainty about the future,https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf,
 Data-viz;,Academic Articles & Journals,What Makes a Visualization Memorable?,https://ieeexplore.ieee.org/abstract/document/6634103,
 Data-viz;R;,Academic Articles & Journals,ggdist: Visualizations of Distributions and Uncertainty in the Grammar of Graphics,https://doi.org/10.1109/TVCG.2023.3327195,
+Data-viz;,Accessibility & Colour,Accessible Colour Palette Contrast Checker,https://accessiblepalette.uk,Build an accessible colour palette by checking the contrast of every colour pair at once.
 Data-viz;,Accessibility & Colour,Analysing and comparing color palettes with cols4all,https://cols4all.github.io/cols4all-R/articles/01_paper.html,
 Data-viz;,Accessibility & Colour,Building color palettes in your data visualization style guides,https://pmc.ncbi.nlm.nih.gov/articles/PMC10797256/,
 Data-viz;Maps;,Accessibility & Colour,CARTOColors,https://carto.com/carto-colors/,"Data-driven color palettes designed for maps, with sequential, diverging, and qualitative options."
 Data-viz;,Accessibility & Colour,Chartability,https://chartability.fizz.studio/,"Chartability is a set of heuristics (testable questions) for ensuring that data visualizations, systems, and interfaces are accessible."
 Data-viz;,Accessibility & Colour,Color Blender,https://meyerweb.com/eric/tools/color-blend/,
-Data-viz;Maps;,Accessibility & Colour,GeoPalettes,https://dominicroye.github.io/color-for-geoscience/,"Color palettes for geoscientific visualization, with options to filter for accessibility and variable type."
 Data-viz;,Accessibility & Colour,ColorBrewer,https://colorbrewer2.org/,
 Data-viz;,Accessibility & Colour,Coolors,https://coolors.co/generate,
 Data-viz;,Accessibility & Colour,Data viz contrast tool,https://datavizcontrast.com/,
 Data-viz;,Accessibility & Colour,Dataviz accessibility resources,https://github.com/dataviza11y/resources,
+Data-viz;Maps;,Accessibility & Colour,GeoPalettes,https://dominicroye.github.io/color-for-geoscience/,"Color palettes for geoscientific visualization, with options to filter for accessibility and variable type."
 Data-viz;,Accessibility & Colour,How to find and create good color palettes,https://www.datawrapper.de/blog/create-good-color-palettes,
 Data-viz;,Accessibility & Colour,How to write text descriptions (alt text) in BBC News articles,https://www.bbc.co.uk/gel/how-to-write-text-descriptions-alt-text,
 Data-viz;,Accessibility & Colour,Making charts accessible,https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/#section-4,
@@ -79,9 +80,11 @@ Data-science;Python;,Community & Events,pyOpenSci,https://www.pyopensci.org/our-
 Data-science;R;,Community & Events,rOpenSci,https://ropensci.org/community/,
 Data-science;R;,Community & Events,rainbowR,https://rainbowr.org/,"A community to connect, support and promote LGBTQ+ people in the R community and to spread awareness of LGBTQ+ issues through data-driven activism."
 Data-science;,Data,Awesome Public Datasets,https://github.com/awesomedata/awesome-public-datasets,A topic-centric list of HQ open datasets.
+Data-science;,Data,Climate Dataset Gallery,https://www.climate.us/maps-data/dataset-gallery,"Datasets relating to climate, searchable by variable type."
 Data-science;,Data,Data Commons,https://datacommons.org/,Offers data exploration tools and cloud-based APIs to access and integrate cleaned datasets.
 Data-science;,Data,Data Is Plural,https://www.data-is-plural.com/,A newsletter of useful/curious datasets.
 Data-science;,Data,Data.gov,https://data.gov/,U.S. Government's Open Data
+Data-science;Teaching;,Data,Data/Sources Repo,https://pinto-pot-721.notion.site/Data-Sources-Repo-517e4d62c303498c829ca3a470884aa3,"Resources and links to datasets and dataset repositories, sorted by topic."
 Data-science;,Data,Dryad,https://datadryad.org/stash,Open data publishing platform.
 Data-science;,Data,European Data,https://data.europa.eu/en,The official portal for European data.
 Data-science;,Data,Free Datasets for Social Science Research,https://github.com/toddrjones/datasets,"A compilation of 100+ free datasets for use in social science, applied microeconomics, data visualization, etc."
@@ -115,7 +118,7 @@ Data-viz;,Inspiration,Help Me Viz,https://helpmeviz.com/,
 Data-viz;,Inspiration,Information is Beautiful,https://informationisbeautiful.net/,
 Data-viz;,Inspiration,Massachusetts (Massive) Visualization Dataset,http://massvis.mit.edu/,
 Data-viz;,Inspiration,New York Times (What's Going On in This Graph?),https://www.nytimes.com/column/whats-going-on-in-this-graph,
-Data-viz;Maps;,Inspiration,Our World in Data,https://ourworldindata.org/,"A collaborative project between the University of Oxford and a non-profit organization that publishes research and data on the world's largest problems, such as poverty, disease, climate change, and inequality. "
+Data-viz;Maps;,Inspiration,Our World in Data,https://ourworldindata.org/,"A collaborative project between the University of Oxford and a non-profit organization that publishes research and data on the world's largest problems, such as poverty, disease, climate change, and inequality."
 Data-viz;,Inspiration,PSI Wonderful Wednesdays,https://vis-sig.github.io/blog/,
 Data-viz;Python;,Inspiration,Python Graph Gallery,https://python-graph-gallery.com/,A collection of hundreds of charts made with Python.
 Data-viz;R;,Inspiration,R Graph Gallery,https://r-graph-gallery.com/,A collection of hundreds of charts made with R.
@@ -131,6 +134,8 @@ Data-viz;,Inspiration,USAFacts,https://usafacts.org/visualizations/,
 Data-viz;,Inspiration,Visual Capitalist,https://www.visualcapitalist.com/,
 Data-viz;,Inspiration,Wonderful Wednesdays,https://www.psiweb.org/sigs-special-interest-groups/visualisation/welcome-to-wonderful-wednesdays,
 Data-viz;Maps;,Inspiration,World Mapper,https://worldmapper.org/,"A collection of world maps called cartograms, where territories are resized on each map according to the subject of interest."
+Data-viz;Maps;,Inspiration,https://www.climate.us/maps-data,Climate Maps & Data,Maps and visualisations tracking climate change and natural variability over time.
+Data-viz;,Newsletter,Art of Process: Transforming Data Into Meaningful Stories,https://tizianaalocci.substack.com/,Monthly newsletter where Tiziana Alocci shares the behind-the-scenes process of a project in her archive.
 Data-viz;,Newsletter,Chartography,https://www.chartography.net/,"Weekly newsletter by RJ Andrews about charts, diagrams, and maps—their craft, their history, and their high‑stakes practice."
 Data-science;,Newsletter,Counting Stuff,https://www.counting-stuff.com/,Weekly newsletter about data science.
 Data-science;,Newsletter,Data Elixir,https://dataelixir.com/,"Weekly newsletter covering machine learning, data visualization, analytics, and strategy."
@@ -169,7 +174,9 @@ Data-viz;,People & Organisations,Dallas Novakowski (Thought-doing),https://dalla
 Data-science;,People & Organisations,Dan Oehm,https://gradientdescending.com/,Finding useful things to do with data.
 Data-science;R;,People & Organisations,Danielle Navarro,https://blog.djnavarro.net/,"Data scientist, recovering academic, and generative artist."
 R;Python;,People & Organisations,Datacove,https://datacove.co.uk/blog/,"Data science consultancy and training company, and current organisers of EARL conference."
+Data-viz;,People & Organisations,David Aerne,https://meodai.color.pizza/,Computational Designer and Interaction Developer.
 Data-science;,People & Organisations,Dorothy Bishop,https://deevybee.blogspot.com/,"Blog on academic-related matters, particularly related to reproducibility."
+Data-viz;,People & Organisations,Elia Kabanov (Hypertextual),https://www.hypertextual.org,Science writer and data journalist.
 Data-science;,People & Organisations,Emil Hvitfeldt,https://emilhvitfeldt.com/blog,Software Engineer at Posit PBC working on the tidymodels team.
 Data-science;,People & Organisations,Emily Riederer,https://www.emilyriederer.com/,Developing reproducible workflows and exposing the tacit knowledge of data work.
 Data-viz;,People & Organisations,Enrico Bertini,https://filwd.substack.com/,
@@ -235,6 +242,7 @@ Teaching;,People & Organisations,Teaching Statistics Trust,https://teachingstati
 Data-science;R;,People & Organisations,ThinkR,https://rtask.thinkr.fr/blog/,
 Data-science;,People & Organisations,Thomas Lumley,https://notstatschat.rbind.io/post/,"Statistical researcher in Auckland, New Zealand."
 Data-science;R;,People & Organisations,Tidyverse,https://www.tidyverse.org/blog/,
+Data-viz;,People & Organisations,Tiziana Alocci,https://www.tizianaalocci.com/,Data and new media artist whose work explores absent data and invisible phenomena.
 Data-viz;,People & Organisations,Wendy Shijia,https://wendyshijia.notion.site/,
 Data-viz;,People & Organisations,Will Chase,https://www.williamrchase.com/,
 Data-viz;,People & Organisations,Yan Holtz,https://www.yan-holtz.com/,Freelance engineer who builds interactive dataviz web apps with D3.js.
@@ -306,6 +314,7 @@ Data-science;R;,Programming Books,ggiraph Book,https://www.ardata.fr/ggiraph-boo
 Data-science;R;,Programming Books,ggplot2 extended,https://ggplot2-extended-book.com/,
 Data-viz;R;,Programming Books,ggplot2 extension cookbook,https://evamaerey.github.io/ggplot2-extension-cookbook/,Aims to provide ggplot2 some extension strategies in a consistent and accessible way.
 Data-science;R;,Programming Books,ggplot2: Elegant Graphics for Data Analysis,https://ggplot2-book.org/,
+Data-science;,Resource List,#statstab,https://mz555.github.io/statstab/,"Searchable archive of papers, tools, arguments, tutorials and methodological curiosities."
 Data-viz;,Resource List,Awesome Dataviz,https://github.com/hal9ai/awesome-dataviz,
 Data-science;,Resource List,Awesome Quarto,https://github.com/mcanouil/awesome-quarto,"A curated list of Quarto talks, tools, examples, and articles."
 Data-viz;,Resource List,Data Folks: List of information designers,https://juanchiparra.github.io/data-folks/,
@@ -342,9 +351,11 @@ Data-science;R;,Videos & Podcasts,R for the Rest of Us Podcast,https://rforthere
 Data-science;R;,Videos & Podcasts,RWeekly Podcast,https://serve.podhome.fm/r-weekly-highlights,Weekly podcast discussing the contents of Rweekly.
 Data-science;,Videos & Podcasts,Statistics Globe,https://www.youtube.com/@StatisticsGlobe,
 Data-science;,Videos & Podcasts,Svelte + D3 Training (Matthias Stahl),https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8,
+R;Data-viz;,Videos & Podcasts,The Coatless Professor,https://m.youtube.com/@thecoatlessprofessor7674,"Videos about R, webR, Quarto, and more."
 Data-science;,Videos & Podcasts,posit::conf(2025) recordings,https://www.youtube.com/playlist?list=PL9HYL-VRX0oTixlfDPCS5RW_F1pccERRe,
 Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.addtwodigital.com/blog,
 Data-viz;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
+Data-viz;,Website,Channel Brewer,https://ebertini.github.io/channel-brewer/,Tool for comparing different visual encodings of variables.
 Data-viz;,Website,Data Feminism,https://direct.mit.edu/books/book/4660/Data-Feminism,
 Data-viz;,Website,Data Viz Project,https://datavizproject.com/,
 Data-viz;,Website,Data visualization style guidelines,https://www.datavizstyleguide.com/,
