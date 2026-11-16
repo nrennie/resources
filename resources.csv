@@ -53,7 +53,7 @@ Data-viz;,Community & Events,Dataviz Conferences in 2025,https://medium.com/@yve
 Data-viz;,Community & Events,EuroVis,https://eurovis.org.uk/,
 Maps;,Community & Events,Geospatial Conferences,https://github.com/nowosad/geospatial-conferences,Index of yearly lists of geospatial conferences.
 Data-viz;,Community & Events,IEEE VIS,https://ieeevis.org/,
-Teaching;,Community & Events,International Association for Statistics Education,https://iase-web.org/,
+Teaching;,Community & Events,International Association for Statistics Education,https://iase-web.org/,"An international organization for statistics education, fostering international cooperation, and stimulating discussion and research."
 Teaching;,Community & Events,International Conference on Teaching Statistics (ICOTS),https://icots12.oa-event.com/,In-person conference with location varying every 4 years.
 Data-science;,Community & Events,NHS RAP Community of Practice,https://nhsdigital.github.io/rap-community-of-practice/,Reproducible Analytical Pipelines (RAP)
 Data-science;R;,Community & Events,NHS-R Community,https://nhsrcommunity.com/,
@@ -235,10 +235,10 @@ Data-viz;R;,People & Organisations,Rita Giordano,https://ritagiordano.co.uk/,
 Data-viz;R;Maps;,People & Organisations,Roger Beecham,https://www.roger-beecham.com/,Methods-oriented research in data visualization and spatial analysis.
 Data-science;R;,People & Organisations,Shannon Pileggi,https://www.pipinghotdata.com/blog,Professional educator and statistical consultant.
 Data-viz;,People & Organisations,Shirley Wu,https://sxywu.github.io/,
-Data-science;AI;,People & Organisations,Simon Couch,https://simonpcouch.com,Building tools for data scientists at Posit
+Data-science;AI;,People & Organisations,Simon Couch,https://simonpcouch.com,Building tools for data scientists at Posit.
 Data-science;,People & Organisations,Sophie Lee (S-Cubed),https://scubed.rbind.io/,"Blog by Sophie Lee about statistics, education, and R tips."
 Data-science;,People & Organisations,Stephen Turner,https://blog.stephenturner.us/,Associate Professor and Assistant Dean for Research at the University of Virginia School of Data Science and advisor to several biotech startups.
-Data-science;R;,People & Organisations,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,"Mainly R but also will discss SQL, C and Linux."
+Data-science;R;,People & Organisations,Steven Paul Sanderson II,https://www.spsanderson.com/steveondata/,"Mainly R but also will discuss SQL, C and Linux."
 Data-viz;,People & Organisations,Tanya Shapiro,https://tanyaviz.com/,
 Teaching;,People & Organisations,Teaching Statistics Trust,https://teachingstatisticstrust.org.uk/,A charitable trust for the purpose of furthering for the public benefit the study and research in statistical education.
 Data-science;R;,People & Organisations,ThinkR,https://rtask.thinkr.fr/blog/,
@@ -288,7 +288,7 @@ R;Maps;,Programming Books,Model-based geostatistics for global public health usi
 Data-science;,Programming Books,Pro Git,https://git-scm.com/book/en/v2,
 Data-science;Python;,Programming Books,Python Polars: The Definitive Guide,https://polarsguide.com/,"Jeroen Janssens and Thijs Nieuwdorp walk you through every feature of Polars, showing you how to use it for real-world tasks like data wrangling, exploratory data analysis, building pipelines, and more."
 Data-science;Python;,Programming Books,Python for Data Analysis,https://wesmckinney.com/book/,"Data Wrangling with pandas, NumPy, and Jupyter."
-Data-science;Python;,Programming Books,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,"Bbook heavily inspired by R for Data Science, that teaches you how to load up, transform, visualise, and begin to understand your data."
+Data-science;Python;,Programming Books,Python for Data Science,https://aeturrell.github.io/python4DS/welcome.html,"Book heavily inspired by R for Data Science, that teaches you how to load up, transform, visualise, and begin to understand your data."
 Data-science;R;,Programming Books,R Cookbook,https://rc2e.com/,
 Data-science;R;Data-viz;,Programming Books,R Graphics Cookbook,https://r-graphics.org/,
 Data-science;R;,Programming Books,R Markdown: The Definitive Guide,https://bookdown.org/yihui/rmarkdown/,
@@ -355,46 +355,46 @@ Data-science;,Videos & Podcasts,Statistics Globe,https://www.youtube.com/@Statis
 Data-science;,Videos & Podcasts,Svelte + D3 Training (Matthias Stahl),https://www.youtube.com/playlist?list=PLNvnDrMLMSipfbxSp1Z4v9Ydu2ud5i9V8,
 R;Data-viz;,Videos & Podcasts,The Coatless Professor,https://m.youtube.com/@thecoatlessprofessor7674,"Videos about R, webR, Quarto, and more."
 Data-science;,Videos & Podcasts,posit::conf(2025) recordings,https://www.youtube.com/playlist?list=PL9HYL-VRX0oTixlfDPCS5RW_F1pccERRe,
-Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.addtwodigital.com/blog,
-Data-viz;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,
+Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.addtwodigital.com/blog,Blog about data visualisation rules about why it's okay to break them.
+Data-viz;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,"A guide to orient you, a colleague, or a student to ggplot2 and extensions."
 Data-viz;,Website,Channel Brewer,https://ebertini.github.io/channel-brewer/,Tool for comparing different visual encodings of variables.
-Data-viz;,Website,Data Feminism,https://direct.mit.edu/books/book/4660/Data-Feminism,
-Data-viz;,Website,Data Viz Project,https://datavizproject.com/,
-Data-viz;,Website,Data visualization style guidelines,https://www.datavizstyleguide.com/,
+Data-viz;,Website,Data Feminism,https://direct.mit.edu/books/book/4660/Data-Feminism,"Book by Catherine D'Ignazio and Lauren F. Klein, describing a new way of thinking about data science and data ethics that is informed by the ideas of intersectional feminism."
+Data-viz;,Website,Data Viz Project,https://datavizproject.com/,"Library of data visualizations, with more than 160 different types of data visualizations presented, each with definitions, taxonomies, and examples."
+Data-viz;,Website,Data Visualization Style Guides,https://www.datavizstyleguide.com/,Resources designed to help you build data visualisation style guides.
 Data-science;R;Python;,Website,Diffify,https://diffify.com/,Compare versions of R and Python packages.
 Teaching;R;,Website,Discovering Statistics,https://discoveringstatistics.com/,"A website that brings together many free resources to help you to get to grips with statistics, including handouts, tutorials, extracts from books, videos and blogs."
 Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freely available Shiny apps for teaching ecology and evolution models
-Data-viz;,Website,Economist style guide,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,
+Data-viz;,Website,The Economist Design System,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,The visual language and interface components that define the experience of The Economist's digital products.
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,FaceTypes,https://facetypes.xyz/,Hand-picked fonts. Free for commercial use. Designers credited.
-Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,
+Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,Tool to lead you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
 Maps;,Website,Geography for Statistics Training,https://onsgeo.github.io/geospatial-training/,Courses and guidance provided by the Office for National Statistics Geospatial Team to help you get to grips with using geography and statistics.
 Data-science;,Website,GitMastery,https://gitmastery.me/,"Learn Git commands and concepts through an interactive game. Progress through levels, solve challenges, and become a Git expert."
-Data-viz;,Website,Government Analysis Function,https://analysisfunction.civilservice.gov.uk/area_of_work/data-visualisation/,
+Data-viz;,Website,Government Analysis Function,https://analysisfunction.civilservice.gov.uk/area_of_work/data-visualisation/,Data visualisation guidance from the UK Government Analysis Function.
 Data-science;,Website,HDR Global,https://globalhealthdatascience.tghn.org/hub-resources/spotlight-r/,"Resources, tips, and ideas to learn R for health data science."
-Data-viz;,Website,"Mistakes, we've drawn a few",https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368,
+Data-viz;,Website,"Mistakes, we've drawn a few",https://web.archive.org/web/20190405131841/https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=23821b7acb70,"Web archive link to blog post by Sarah Leo, re-designing some previously published charts in The Economist."
 Data-viz;,Website,ONS Data Visualisation Manual,https://service-manual.ons.gov.uk/data-visualisation,Office for National Statistics data visualisation style guide and best practices.
-Data-viz;,Website,ONS Digital Blog,https://digitalblog.ons.gov.uk/category/dataviz/,
+Data-viz;,Website,ONS Digital Blog,https://digitalblog.ons.gov.uk/category/dataviz/,Blog from the Office for National Statistics Digital Content teams.
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Data-viz;Teaching;,Website,Open Visualization Academy,https://openvisualizationacademy.org/,"A free repository of knowledge about information design, data visualization, and data literacy; collated by Alberto Cairo."
 Data-viz;Maps;,Website,Ordnance Survey: More than maps,https://docs.os.uk/more-than-maps,"Step-by-step tutorials, interactive guides, and expert insights from Ordnance Survey."
-Data-science;,Website,Posit Open Source,https://opensource.posit.co/,
+Data-science;,Website,Posit Open Source,https://opensource.posit.co/,"Open source software for data science, scientific research, and technical communication. "
 Data-science;R;Teaching;,Website,PsyTeachR,https://psyteachr.github.io/,"Website contains our open materials for teaching reproducible research, from the psyTeachR team at the University of Glasgow School of Psychology and Neuroscience."
 Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
-Data-science;,Website,R for the Rest of Us,https://rfortherestofus.com/,
+Data-science;,Website,R for the Rest of Us,https://rfortherestofus.com/,"Organisation that helps people to use R through self-paced online courses, our Ally membership, training for organizations moving to R, and consulting work."
 Data-viz;,Website,RSS Best Practices for Data Visualisation,https://rss.org.uk/datavisguide/,Royal Statistical Society data visualisation style guide and best practices.
 Teaching;,Website,RSS Teaching Resources,https://rss.org.uk/resources/resources-for-educators/teaching-resources/,"List of resources for teaching statistics, and supporting public understanding and engagement, from the Royal Statistical Society."
 Maps;,Website,Rare Maps,https://raremaps.com/category/maps,"Website for selling in antiquarian maps, atlases & related works on paper, included as a source of inspiration."
 Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,"A project from the Royal Statistical Society, in partnership with the American Statistical Association to bridge the gap between rigorous analysis and real time relevance."
-Data-viz;,Website,Saloni's guide to data visualization,https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,
+Data-viz;,Website,Saloni's guide to data visualization,https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,"Guide by Saloni Dattani on why data visualization matters, and how to make charts more effective, clear, transparent, and sometimes, beautiful."
 Data-science;,Website,Significance Magazine,https://significancemagazine.com/,"Bimonthly magazine for anyone interested in statistics and the analysis and interpretation of data, published by the Royal Statistical Society."
 Data-viz;,Website,Site Seeing,https://lab.ishadeed.com/tools/site-seeing/,"Tool to investigate how websites appear in more ways than just desktop and mobile, such as docked developer tools, an open keyboard, in-app browsers, split views, and more."
 Teaching;,Website,The National Teaching Repository,https://ntrepository.com/,"An open access online searchable database where colleagues can upload and share teaching resources, pedagogical research, approaches and ideas."
-Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,
-Data-science;R;,Website,Tidymodels website,https://www.tidymodels.org/,
-Data-viz;,Website,Urban Institute data visualization style guide,https://urbaninstitute.github.io/graphics-styleguide/,
-Data-viz;,Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,
-Data-viz;,Website,VisLies,https://www.vislies.org/,
-Data-viz;,Website,VizHub,https://vizhub.com/,
-Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,
+Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,"An open source, open-collaboration and community-led project for reproducible, ethical and collaborative data science."
+Data-science;R;,Website,Tidymodels website,https://www.tidymodels.org/,A collection of R packages for modeling and machine learning using tidyverse principles.
+Data-viz;,Website,Urban Institute data visualization style guide,https://urbaninstitute.github.io/graphics-styleguide/,"Data visualization style guide helps the Urban Institute ensure a uniform look and feel across charts, graphs, and tables that appear in Urban publications and on the Urban website."
+Data-viz;,Website,Using D3 with Svelte,https://datavisualizationwithsvelte.com/,"Tutorials to learn how to create visually appealing charts, graphs, animations and more using the powerful combination of Svelte and D3."
+Data-viz;,Website,VisLies,https://www.vislies.org/,"Examples of egregious perceptual, cognitive, and conceptual errors in visualization, presented by members of the VIS community."
+Data-viz;AI;,Website,VizHub,https://vizhub.com/,"Tool to explore visualization ideas with AI agents, and develop, review, manage, and deliver interactive visualizations with editable source, reviewable AI Edits, and revision history."
+Data-science;,Website,Welcome to Svelte,https://svelte.dev/tutorial/svelte/welcome-to-svelte,Tutorials that teach you everything you need to know to easily build web applications of all sizes using Svelte.
 Maps;,Website,playproj: perspective projections,https://hypertidy.github.io/playproj/,"Tool to illustrate map projections by drawing them the way they are built: a point of light, a sphere and a plane."
