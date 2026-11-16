@@ -31,6 +31,7 @@ Data-viz;,Accessibility & Colour,How to write text descriptions (alt text) in BB
 Data-viz;,Accessibility & Colour,Making charts accessible,https://analysisfunction.civilservice.gov.uk/policy-store/making-analytical-publications-accessible/#section-4,
 Data-viz;,Accessibility & Colour,Poline,https://meodai.github.io/poline/,Color palette generation library.
 Data-viz;,Accessibility & Colour,Python color palette finder,https://python-graph-gallery.com/color-palette-finder/,
+Data-viz;,Accessibility & Colour,This hue shall pass,https://thishueshallpass.clearleft.com,An accessibility tool that helps you review and refine your brand's digital colour palette. It shows you a matrix of all possible colour combinations and which ones pass or fail your accessibility criteria.
 Data-viz;,Accessibility & Colour,Viz Palette,https://projects.susielu.com/viz-palette,
 Data-viz;,Accessibility & Colour,Why your data viz needs alt text,https://academic.oup.com/jrssig/article/20/1/38/7034177,
 Data-viz;,Accessibility & Colour,Writing alt text for data visualization,https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81,
@@ -154,6 +155,7 @@ Data-viz;,Newsletter,The Crunch Newsletter,https://www.theguardian.com/news/seri
 Data-viz;,Newsletter,The Data Storyteller's Newsletter,https://www.roguepenguin.co.nz/newsletter,Monthly newsletter from Kat Greenbrook (Rogue Penguin) with data storytelling tips and updates.
 Data-viz;,Newsletter,The Pudding Newsletter,https://pudding.cool/subscribe,Archives of newsletters from The Pudding about visual storytelling projects.
 Data-viz;,Newsletter,The Visualising Data Newsletter,https://visualisingdata.com/newsletter/,Monthly data visualisation newsletter from Andy Kirk.
+Data-science;,Newsletter,data - digital - people (Ben Proctor),https://buttondown.com/likeaword,A mostly weekly newsletter about data jobs in nonprofits and occasional other newsletters.
 Data-viz;,People & Organisations,Ahmad Barclay,https://ahmadbarclay.com,"Architect, designer, web developer, visual communicator engaged in a variety of projects involving data visualization, visual storytelling and learning through play."
 Data-science;AI;R;,People & Organisations,Albert Rapp,https://albert-rapp.de/,"Data Analytics, Web Development, and Visualization."
 Data-viz;,People & Organisations,Alberto Cairo (The Art of Insight),https://theartofinsight.substack.com/,
@@ -364,6 +366,7 @@ Teaching;R;,Website,Discovering Statistics,https://discoveringstatistics.com/,"A
 Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freely available Shiny apps for teaching ecology and evolution models
 Data-viz;,Website,Economist style guide,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
+Data-viz;,Website,FaceTypes,https://facetypes.xyz/,Hand-picked fonts. Free for commercial use. Designers credited.
 Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,
 Maps;,Website,Geography for Statistics Training,https://onsgeo.github.io/geospatial-training/,Courses and guidance provided by the Office for National Statistics Geospatial Team to help you get to grips with using geography and statistics.
 Data-science;,Website,GitMastery,https://gitmastery.me/,"Learn Git commands and concepts through an interactive game. Progress through levels, solve challenges, and become a Git expert."
@@ -385,6 +388,7 @@ Maps;,Website,Rare Maps,https://raremaps.com/category/maps,"Website for selling 
 Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,"A project from the Royal Statistical Society, in partnership with the American Statistical Association to bridge the gap between rigorous analysis and real time relevance."
 Data-viz;,Website,Saloni's guide to data visualization,https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,
 Data-science;,Website,Significance Magazine,https://significancemagazine.com/,"Bimonthly magazine for anyone interested in statistics and the analysis and interpretation of data, published by the Royal Statistical Society."
+Data-viz;,Website,Site Seeing,https://lab.ishadeed.com/tools/site-seeing/,"Tool to investigate how websites appear in more ways than just desktop and mobile, such as docked developer tools, an open keyboard, in-app browsers, split views, and more."
 Teaching;,Website,The National Teaching Repository,https://ntrepository.com/,"An open access online searchable database where colleagues can upload and share teaching resources, pedagogical research, approaches and ideas."
 Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,
 Data-science;R;,Website,Tidymodels website,https://www.tidymodels.org/,
