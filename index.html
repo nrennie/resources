@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.20">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,18 +41,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-17888a1159294d3eb470f19f6f52f5a5.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0ae969d3293726db143f6e9eb89af930.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-17888a1159294d3eb470f19f6f52f5a5.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-447e42e69aaa9833c0ba1b986f430b20.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2d48fa70e9c25192268732d4560b64b7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-f6762fb18ba392f7466c94cb06b648e6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-2d48fa70e9c25192268732d4560b64b7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0fa3639510d4c407cc26c9f3fc196d31.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-0af0892974b7e0608076abe1d9b1cdab.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-0fa3639510d4c407cc26c9f3fc196d31.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -102,12 +103,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -148,12 +143,10 @@ window.Quarto = {
 <meta name="twitter:title" content="Resources">
 <meta name="twitter:description" content="Collections of useful, freely-available resources and links on data-related topics, curated by Nicola Rennie.">
 <meta name="twitter:image" content="https://nrennie.github.io/resources/assets/img/featured.png">
-<meta name="twitter:image-height" content="763">
-<meta name="twitter:image-width" content="1356">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="floating nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="floating nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -176,6 +169,7 @@ window.Quarto = {
       for (let i=0; i < toggles.length; i++) {
         const toggle = toggles[i];
         if (toggle) {
+          toggle.setAttribute("aria-checked", alternate ? "true" : "false");
           if (alternate) {
             toggle.classList.add("alternate");
           } else {
@@ -205,13 +199,19 @@ window.Quarto = {
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
       setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455).
+    // Not run on load: stylesheets are set before first paint there, and
+    // scrolling would undo the scroll to a URL fragment (#14973).
+    // The one pixel nudge keeps the reader where they were.
+    const refreshSafariScrollbar = () => {
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
         manageTransitions("body", false);
-        window.scrollTo(0, 1);
+        const scrollY = window.scrollY;
+        window.scrollTo(0, scrollY > 0 ? scrollY - 1 : 1);
         setTimeout(() => {
-          window.scrollTo(0, 0);
+          window.scrollTo(0, scrollY);
           manageTransitions("body", true);
         }, 40);
       }
@@ -305,6 +305,7 @@ window.Quarto = {
       // Read the current dark / light value
       let toAlternate = !hasAlternateSentinel();
       toggleColorMode(toAlternate);
+      refreshSafariScrollbar();
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
@@ -319,10 +320,9 @@ window.Quarto = {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Site">
       <div class="navbar-container container-fluid">
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -335,8 +335,9 @@ window.Quarto = {
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
     <a href="https://github.com/nrennie/resources" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <button type="button" role="switch" aria-checked="false" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode" aria-label="Toggle dark mode"><i class="bi"></i></button>
 </div>
+            <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -348,7 +349,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content" tabindex="-1">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -373,8 +374,8 @@ window.Quarto = {
 
 <div id="listing-resources-listing" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1793614808282" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./all/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1794837996009" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./all/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./all/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -383,7 +384,7 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 All resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available resources and links related to data science, visualisation, AI, teaching statistics, and programming, curated by Nicola Rennie.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -394,8 +395,8 @@ All resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1793614808282" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./ai/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1794837996009" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./ai/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./ai/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -404,7 +405,7 @@ All resources
 <h5 class="no-anchor card-title listing-title">
 AI resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available AI resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -415,8 +416,8 @@ AI resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1793614808286" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./data-science/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1794837996012" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./data-science/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./data-science/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -425,7 +426,7 @@ AI resources
 <h5 class="no-anchor card-title listing-title">
 Data science resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available data science resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -436,8 +437,8 @@ Data science resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1793614808286" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./data-viz/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1794837996013" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./data-viz/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./data-viz/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -446,7 +447,7 @@ Data science resources
 <h5 class="no-anchor card-title listing-title">
 Data visualisation resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available data visualisation resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -457,8 +458,8 @@ Data visualisation resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1793614808287" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./maps/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1794837996013" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./maps/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./maps/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -467,7 +468,7 @@ Data visualisation resources
 <h5 class="no-anchor card-title listing-title">
 Mapping resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available geospatial, mapping, and cartographic resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -478,8 +479,8 @@ Mapping resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1793614808287" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./python/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1794837996013" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./python/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./python/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -488,7 +489,7 @@ Mapping resources
 <h5 class="no-anchor card-title listing-title">
 Python resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available Python programming resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -499,8 +500,8 @@ Python resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1793614808272" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./R/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1794837996000" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./R/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./R/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -509,7 +510,7 @@ Python resources
 <h5 class="no-anchor card-title listing-title">
 R resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available R programming resources and links.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -520,8 +521,8 @@ R resources
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1793614808287" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./teaching/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1794837996014" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./teaching/index.html" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./teaching/featured.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -530,7 +531,7 @@ R resources
 <h5 class="no-anchor card-title listing-title">
 Teaching statistics resources
 </h5>
-<div class="card-text listing-description delink">
+<div class="card-text listing-description">
 <p>A collection of useful, freely-available resources and links related to teaching statistics and data science.</p>
 </div>
 <div class="card-attribution card-text-small start">
@@ -544,7 +545,7 @@ Teaching statistics resources
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<p>This resource list was last updated on Nov 02, 2026. Want to add a resource? File an issue or edit the <code>resources.csv</code> file on <a href="https://github.com/nrennie/resources">GitHub</a> and submit a PR.</p>
+<p>This resource list was last updated on Nov 16, 2026. Want to add a resource? File an issue or edit the <code>resources.csv</code> file on <a href="https://github.com/nrennie/resources">GitHub</a> and submit a PR.</p>
 <p>Links to external websites are provided for convenience and informational purposes only. We do not endorse, guarantee, or take responsibility for the accuracy, reliability, or content of any linked site.</p>
 
 
@@ -555,15 +556,50 @@ Teaching statistics resources
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-      const a = window.document.createElement('a');
-      a.classList.add('top-right');
-      a.classList.add('quarto-color-scheme-toggle');
-      a.href = "";
-      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const toggle = window.document.createElement('button');
+      toggle.type = "button";
+      toggle.setAttribute("role", "switch");
+      toggle.setAttribute("aria-checked", "false");
+      toggle.classList.add('top-right');
+      toggle.classList.add('quarto-color-scheme-toggle');
+      toggle.setAttribute("aria-label", "Toggle dark mode");
+      toggle.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
       const i = window.document.createElement("i");
       i.classList.add('bi');
-      a.appendChild(i);
-      window.document.body.appendChild(a);
+      toggle.appendChild(i);
+      // Put the toggle in a landmark of its own, so that landmark navigation
+      // can reach it.
+      //
+      // The container is always a fresh direct child of body, and the toggle is
+      // never moved into page furniture that the theme or the author controls.
+      // The toggle is positioned against the page, so any ancestor that
+      // establishes a containing block captures it: a positioned element or a
+      // grid for position: absolute, and transform, filter, will-change or
+      // contain for position: fixed. A direct child of body has none of these
+      // to inherit, and the shift when one appears is silent and visual.
+      //
+      // ARIA says a document should have at most one banner, and axe reports a
+      // duplicate whether or not the banners carry distinct labels. So use a
+      // header when the page has no banner yet, and a named region otherwise.
+      //
+      // A header is a banner wherever it sits, unless it is inside sectioning
+      // content, so this cannot just look at the children of body: a custom
+      // page layout wraps the title block header in a plain div. An explicit
+      // role="banner" always counts.
+      const sectioning = 'article, aside, main, nav, section, [role="article"], [role="complementary"], [role="main"], [role="navigation"], [role="region"]';
+      const hasBanner = Array.from(
+        window.document.querySelectorAll('header:not([role]), [role="banner"]')
+      ).some(function(el) {
+        return el.hasAttribute("role") || el.closest(sectioning) === null;
+      });
+      const container = window.document.createElement(hasBanner ? "div" : "header");
+      if (hasBanner) {
+        container.setAttribute("role", "region");
+        container.setAttribute("aria-label", "Toggle dark mode");
+      }
+      container.classList.add('quarto-color-scheme-toggle-container');
+      container.appendChild(toggle);
+      window.document.body.appendChild(container);
     }
     setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
@@ -642,7 +678,8 @@ Teaching statistics resources
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -651,8 +688,69 @@ Teaching statistics resources
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -666,6 +764,7 @@ Teaching statistics resources
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -828,44 +927,54 @@ Teaching statistics resources
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -963,6 +1072,9 @@ Teaching statistics resources
       }
     }
   });
+  </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
 <footer class="footer">
