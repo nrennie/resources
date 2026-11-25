@@ -172,6 +172,7 @@ Data-science;R;Data-viz;,People & Organisations,Cara Thompson (Telling Stories w
 Data-science;AI;,People & Organisations,Cat Hicks,https://www.drcathicks.com/,Psychological scientist studying software teams and technology work.
 Data-viz;R;,People & Organisations,Charlotte Hadley (Visible Data),https://www.visibledata.io/,
 Data-science;R;,People & Organisations,Crystal Lewis,https://cghlewis.com/,Freelance consultant and trainer with over 10 years of experience as a data manager in the field of education research.
+R;Data-science;Data-viz;,People & Organisations,Cynthia Huang,https://www.cynthiahqy.com/,"Interdisciplinary researcher with a particular focus on data quality, provenance and visualisation in data science workflows."
 Data-viz;,People & Organisations,Dallas Novakowski (Thought-doing),https://dallasnova.rbind.io/post/,
 Data-science;,People & Organisations,Dan Oehm,https://gradientdescending.com/,Finding useful things to do with data.
 Data-science;R;,People & Organisations,Danielle Navarro,https://blog.djnavarro.net/,"Data scientist, recovering academic, and generative artist."
@@ -196,6 +197,7 @@ Data-science;,People & Organisations,Jack Kennedy,https://jcken95.github.io/proj
 Data-viz;,People & Organisations,Jacque Schrag,https://jacqueschrag.com/,
 Data-science;R;,People & Organisations,Jadey Ryan,https://jadeyryan.com/,Cat-obsessed environmental data scientist.
 Data-science;R;,People & Organisations,Jen Richmond,https://jenrichmond.github.io/,"A developmental psychologist who is interested in open science, reproducibility and R."
+Data-science;,People & Organisations,Jess Rose,https://jessica.tech/blog/,"Works with open source projects and teams to help them with community strategy, developer education, global programs and documentation; and has blog posts about tech job hunting."
 Data-science;,People & Organisations,Jonathan Carroll,https://jcarroll.com.au/,Theoretical physicist turned R developer.
 Data-viz;,People & Organisations,Jonathan Schwabish (Policy Viz),https://policyviz.com/blog/,
 Data-science;Maps;,People & Organisations,Josiah Parry,https://josiah.rs/,Senior Product Engineer on the Spatial Analysis team at Esri.
@@ -359,12 +361,11 @@ Data-viz;,Website,99 data viz rules and why it's OK to break them,https://www.ad
 Data-viz;R;,Website,A ggplot2 Grammar Guide,https://evamaerey.github.io/ggplot2_grammar_guide/about,"A guide to orient you, a colleague, or a student to ggplot2 and extensions."
 Data-viz;,Website,Channel Brewer,https://ebertini.github.io/channel-brewer/,Tool for comparing different visual encodings of variables.
 Data-viz;,Website,Data Feminism,https://direct.mit.edu/books/book/4660/Data-Feminism,"Book by Catherine D'Ignazio and Lauren F. Klein, describing a new way of thinking about data science and data ethics that is informed by the ideas of intersectional feminism."
-Data-viz;,Website,Data Viz Project,https://datavizproject.com/,"Library of data visualizations, with more than 160 different types of data visualizations presented, each with definitions, taxonomies, and examples."
 Data-viz;,Website,Data Visualization Style Guides,https://www.datavizstyleguide.com/,Resources designed to help you build data visualisation style guides.
+Data-viz;,Website,Data Viz Project,https://datavizproject.com/,"Library of data visualizations, with more than 160 different types of data visualizations presented, each with definitions, taxonomies, and examples."
 Data-science;R;Python;,Website,Diffify,https://diffify.com/,Compare versions of R and Python packages.
 Teaching;R;,Website,Discovering Statistics,https://discoveringstatistics.com/,"A website that brings together many free resources to help you to get to grips with statistics, including handouts, tutorials, extracts from books, videos and blogs."
 Teaching;,Website,EcoEvoApps,https://ecoevoapps.gitlab.io/,A collection of freely available Shiny apps for teaching ecology and evolution models
-Data-viz;,Website,The Economist Design System,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,The visual language and interface components that define the experience of The Economist's digital products.
 Data-viz;,Website,FT Visual Vocabulary,https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary,Financial Times Visual Vocabulary.
 Data-viz;,Website,FaceTypes,https://facetypes.xyz/,Hand-picked fonts. Free for commercial use. Designers credited.
 Data-viz;,Website,From Data to Viz,https://www.data-to-viz.com/,Tool to lead you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
@@ -378,7 +379,7 @@ Data-viz;,Website,ONS Digital Blog,https://digitalblog.ons.gov.uk/category/datav
 Data-science;,Website,Oh My Git!,https://ohmygit.org/,An open source game about learning Git
 Data-viz;Teaching;,Website,Open Visualization Academy,https://openvisualizationacademy.org/,"A free repository of knowledge about information design, data visualization, and data literacy; collated by Alberto Cairo."
 Data-viz;Maps;,Website,Ordnance Survey: More than maps,https://docs.os.uk/more-than-maps,"Step-by-step tutorials, interactive guides, and expert insights from Ordnance Survey."
-Data-science;,Website,Posit Open Source,https://opensource.posit.co/,"Open source software for data science, scientific research, and technical communication. "
+Data-science;,Website,Posit Open Source,https://opensource.posit.co/,"Open source software for data science, scientific research, and technical communication."
 Data-science;R;Teaching;,Website,PsyTeachR,https://psyteachr.github.io/,"Website contains our open materials for teaching reproducible research, from the psyTeachR team at the University of Glasgow School of Psychology and Neuroscience."
 Data-science;,Website,Quarto,https://quarto.org/,An open-source scientific and technical publishing system.
 Data-science;,Website,R for the Rest of Us,https://rfortherestofus.com/,"Organisation that helps people to use R through self-paced online courses, our Ally membership, training for organizations moving to R, and consulting work."
@@ -389,6 +390,7 @@ Data-science;,Website,Real World Data Science,https://realworlddatascience.net/,
 Data-viz;,Website,Saloni's guide to data visualization,https://www.scientificdiscovery.dev/p/salonis-guide-to-data-visualization,"Guide by Saloni Dattani on why data visualization matters, and how to make charts more effective, clear, transparent, and sometimes, beautiful."
 Data-science;,Website,Significance Magazine,https://significancemagazine.com/,"Bimonthly magazine for anyone interested in statistics and the analysis and interpretation of data, published by the Royal Statistical Society."
 Data-viz;,Website,Site Seeing,https://lab.ishadeed.com/tools/site-seeing/,"Tool to investigate how websites appear in more ways than just desktop and mobile, such as docked developer tools, an open keyboard, in-app browsers, split views, and more."
+Data-viz;,Website,The Economist Design System,https://design-system.economist.com/documents/CHARTstyleguide_20170505.pdf,The visual language and interface components that define the experience of The Economist's digital products.
 Teaching;,Website,The National Teaching Repository,https://ntrepository.com/,"An open access online searchable database where colleagues can upload and share teaching resources, pedagogical research, approaches and ideas."
 Data-science;,Website,The Turing Way,https://www.turing.ac.uk/research/research-projects/turing-way,"An open source, open-collaboration and community-led project for reproducible, ethical and collaborative data science."
 Data-science;R;,Website,Tidymodels website,https://www.tidymodels.org/,A collection of R packages for modeling and machine learning using tidyverse principles.
